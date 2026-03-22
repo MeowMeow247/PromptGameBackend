@@ -6,6 +6,8 @@ mod jsons;
 use rand::Rng;
 use rocket::serde::{Serialize, json::Json};
 use rocket::State;
+use rocket::http::Method;
+use rocket_cors::{AllowedOrigins, CorsOptions};
 use crate::jsons::{IntroResponse, MinigameResponse, PromptResponse};
 use crate::prompt_data::{Prompt, PromptData};
 
@@ -61,10 +63,21 @@ fn minigame(prompt_data: &State<PromptData>) -> Json<MinigameResponse> {
 
 #[launch]
 fn rocket() -> _ {
-    let prompt_file_path = "/static/prompts_data.json".to_string();
+    let prompt_file_path = "./static/prompts_data.json".to_string();
     let prompt_data: PromptData = PromptData::from_file(&prompt_file_path).unwrap_or_else(|| {
         eprintln!("failed to load prompt data struct :(");
         PromptData::empty()
     });
-    rocket::build().mount("/", routes![index, introduction, prompt, minigame]).manage(prompt_data)
+
+    let cors = CorsOptions::default()
+        .allowed_origins(AllowedOrigins::all())
+        .allowed_methods(
+            vec![Method::Get, Method::Post, Method::Patch]
+                .into_iter()
+                .map(From::from)
+                .collect(),
+        )
+        .allow_credentials(true);
+
+    rocket::build().mount("/", routes![index, introduction, prompt, minigame]).manage(prompt_data).attach(cors.to_cors().unwrap())
 }
