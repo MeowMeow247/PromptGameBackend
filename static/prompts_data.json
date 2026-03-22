@@ -1,0 +1,5221 @@
+{
+    "introductions": [
+        {
+            "introduction": "A DVD menu icon bouncing its way around the screen, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Fully anticipating a surprise party, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "The windup Make Some Noise contestant toy, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "On a Hollywood bus tour, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Thinking backstage is onstage and onstage is backstage, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Wondering if we're on hugging terms, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "My Secret Service agent, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "One of those T-shirt canon guys, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A mummy whose thread is caught on a nail backstage, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Disappointed to see that I'm still host, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing a lot of invisible hat play, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A little too gracious with the other players, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "One of those black and white videos of 1900s NYC, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A Broadway character's first day in the big city, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A melodramatic teen coming home after a first date, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Walking, talking branded content, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing seven perfectly executed backflips, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Secretly a crew member, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Escaping an argument with the other two players, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Walking through a wind tunnel, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Giving a tour of this very studio, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Following Airbnb instructions to get to the podium, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Interacting with their animated sidekick, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Tucking everyone in for the night, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Faking asleep so mom will carry them in from the car, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Having major beef with one of our camera operators, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Trying to start the wave unsuccessfully, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Not being able to figure out a revolving door, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A hovering retail employee, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Getting thrown out of a bar at three o'clock in the morning, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Making their way to their seat in a full movie theater, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Fleeing from a sworm of wasps, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Opening up the door to a surprise party, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "The ghost of a Victorian child with unfinished business, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "The wacky neighbor entering a sitcom, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Deciding whether or not to knock down a wall and really open up the place, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Absolutely loving the texture of everything, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Like a cartoon pig to a steaming pie on a window sill, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing an old timey strip tease through the door, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A wobbly newborn giraffe, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "When your favorite song comes on the jukebox, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Bad news rolling into the saloon, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone who's disgusted by game shows, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An overwhelmed actress accepting an Oscar, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Professional pose model, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "One of those lizards that can across water, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Confidently going to the wrong podium, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Trying to explain to a stranger that they have the wrong podium, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Living, laughing, loving one day at a time, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Abusing their executive producer privileges, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A bridesmaid walking disapprovingly down the aisle, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Pretty sure this is secretly an episode of 'Game Changer', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Walking on ice skates on land, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Running so early for a job interview the lights in the building aren't even on, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Hoping people will notice their haircut, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Making full use of the space, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Returning to the party after staring at themself in the bathroom mirror high for 25 minutes, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A Muppet walking across the room, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Clearly Googling 'How to improvise', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "The men's room was out of paper towels! It's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Under the impression that this is an open house, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone who's been banned from the show but is back in a disguise, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Discreetly trying to scratch a spot in the middle of their back, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone afraid of production lights, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A Karate Master chopping a series of boards, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A ballerina sneaking in waves to their friends, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A background actor that's too aware of the camera, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Dancing to YMCA in a silent disco, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A toddler rushing for their parents' leg, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "In a step down from their After Midnight appearances, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Immediately realizing they've locked themselves out of their apartment, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Discreetly tipping me a 20 to tip the game their way, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Trying not to let the cat out, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A mouse caught in a rainstorm using a leaf as an umbrella, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Hosting a completely different show, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Creepy hands wrapping their way around the door in a horror movie, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone walking in on you in the bathroom, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Opening a door during a hurricane, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone pranked into playing 'Make Some Noise', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Ring footage of a package thief, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Looking for the package that was just delivered, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Not waiting for me to finish their introduction\u2014",
+            "tags": []
+        },
+        {
+            "introduction": "A baseball player taking their time to round the bases, it\u2019s [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Hiding that their hands are glued together, it\u2019s [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Sleepwalking onto the stage, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone who doesn't know how to smile for a photo, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone who thinks they're a crew member of the show, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "The coziest person alive, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Leaving a play date that did not go well, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "About to break dance but never starting, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Really close to the camera, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Rising behind me like a vampire, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Where you least expect them, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Through the wardrobe and into Narnia, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Thinking this is a nationally televised political debate, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Just told by the lifeguard to stop running, but still kind of running, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Awkwardly dismounting a ski lift, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Getting locked out of their hotel room naked without a keycard, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A time lapse of a plant growing toward the sun, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Still snacking on the craft service table, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Manning Queen Anne's Revenge in a storm, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Hobbling along in a full body cast, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Casing the place to rob it later, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Scooching into their seat at a movie theater, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A claw in a claw machine, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Leaving a restroom where they just dropped a nuke, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing a dance called The Bri, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Flirting with every camera individually, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A cool guy walking away from an explosion but when it goes off they flinche a little bit, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A ghost adjusting things around the house just to freak you out, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone confused where their entrance is supposed to be, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Someone who thinks they're on American Ninja Warrior, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A door installer admiring their work, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Coming in on an imaginary foldable bicycle, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Jack Nicholson busting down the door in The Shining, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Their child having left a bunch of LEGOs on the floor, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A sitcom actor looking around the bar for the last time in the series finale, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Heads normal, tails insane: It's normal! [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "After decades of research, debuting Walking 2, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Bypassing the eye scanner, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Rehearsing for river dance, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Having a cartoonishly delayed reaction to a burn, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "In an elaborate castle fencing scene, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An extra runing this take, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Giving each of our cameras direction, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A creepy lantern-holding graveyard keeper, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Called down on 'The Price is Right', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Chasing the waiter down for the check, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Flagged for unsportsmanlike conduct, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A Karen telling us we can't film their, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A time traveler whose machine just worked, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A Clicker from 'The Last Of Us', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "World famous interpretive dancer, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A bar patron about to pick a fight, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Their royal majesty, [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Old grainy footage of Sasquatch, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A student showing up late to class, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Running cold from the pool to the hot tub, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Unaware the camera is on him, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Fighting everyone in the room for the wedding bouquet, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Mary Poppins floating down with an umbrella, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A dog wearing shoes for the first time, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Frustratedly passing dozens of people on their bike, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Drunk and ensuring she's getting into the right Uber, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An entrance for our $1 a month Patreon supporters, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An entrance for our $10 a month Patreon supporters, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An entrance for our $100 a month Patreon supporters, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "In day four of a conga line, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "An OSHA rep making note of on-set violations, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Desperate to appear on a JumboTron, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Unaware they have a terrible podium allergy, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Discreetly paying tribute to the Illuminati, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Daring the snipers to take a shot, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Joe Pesci setting off booby traps like in 'Home Alone', it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Lady Gaga doing an epic Super Bowl entrance, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Antonio Banderas modeling a watch, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing a terrible job at being in the Witness Protection Program, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Secretly looking for an escaped tarantula, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Charmingly pickpocketing the host, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Respawning to the spot they just died, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Shush, they just put the baby to bed, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A 1950s husband coming home from work, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Struggling to carry all the Grammys she's won, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Posing for photos on the red carpet, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Signing autograph for adoring fans, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "Doing a line dance no one's seen before, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "In the middle of a backstage quick change, it's [NAME]",
+            "tags": []
+        },
+        {
+            "introduction": "A lead guitarist taking a moment with each member of the band, it's [NAME]",
+            "tags": []
+        }
+    ],
+    "prompts": [
+        {
+            "prompt": "100,000 Batmans",
+            "tags": []
+        },
+        {
+            "prompt": "A figure skating fail & the slow-mo instant replay of the same figure skating fail",
+            "tags": []
+        },
+        {
+            "prompt": "5 different 'hell yeah's & their contexts",
+            "tags": []
+        },
+        {
+            "prompt": "A briefcase full of Seinfeld into music",
+            "tags": []
+        },
+        {
+            "prompt": "What not to do if you see a rattlesnake",
+            "tags": []
+        },
+        {
+            "prompt": "Comedy Central's roast of an ostrich",
+            "tags": []
+        },
+        {
+            "prompt": "Fred Schneider of the B-52's is going to find and kill you",
+            "tags": []
+        },
+        {
+            "prompt": "A dancing crossing guard is bad at the crossing guard part",
+            "tags": []
+        },
+        {
+            "prompt": "Your dad teaches you about the birds & the bees (& the fire & the sword & the spell & the prophecy)",
+            "tags": []
+        },
+        {
+            "prompt": "Jigsaw from 'Saw' forgot to prepare anything & has to wing it",
+            "tags": []
+        },
+        {
+            "prompt": "Good Cop/Comrade Cop",
+            "tags": []
+        },
+        {
+            "prompt": "A difficult-to-open jar of pickles makes two men question everything",
+            "tags": []
+        },
+        {
+            "prompt": "A series of unfortunate events while we're rolling on room tone",
+            "tags": []
+        },
+        {
+            "prompt": "Asteroid-denying dinosaurs' podcast",
+            "tags": []
+        },
+        {
+            "prompt": "An animal expert explains a monkey's unusual behavior",
+            "tags": []
+        },
+        {
+            "prompt": "Sam's inner monologue when he wakes up in the morning",
+            "tags": []
+        },
+        {
+            "prompt": "Someone trying to get a new nickname for themselves off the ground",
+            "tags": []
+        },
+        {
+            "prompt": "Hour 12 of a press junket for 'Make Some Noise'",
+            "tags": []
+        },
+        {
+            "prompt": "That weird cellmate in the corner also joins the 'Cell Block Tango'",
+            "tags": []
+        },
+        {
+            "prompt": "A bit of good news becomes bad news becomes good news becomes bad news",
+            "tags": []
+        },
+        {
+            "prompt": "Five sips of water, each a little more refreshing than the last",
+            "tags": []
+        },
+        {
+            "prompt": "A future 'Wirecutter' writer talks about the top three rocks they found on the playground",
+            "tags": []
+        },
+        {
+            "prompt": "A basketball player's far too elaborate free throw r outine",
+            "tags": []
+        },
+        {
+            "prompt": "Agent Smoulder in the XXX-Files",
+            "tags": []
+        },
+        {
+            "prompt": "An aide correcting the mayor-elect during their victory speech",
+            "tags": []
+        },
+        {
+            "prompt": "Two dads try to out-proud each other at graduation",
+            "tags": []
+        },
+        {
+            "prompt": "A kid's birthday party clown gets heckled",
+            "tags": []
+        },
+        {
+            "prompt": "A bedridden British orphan's dying wish is for you to read their screenplay",
+            "tags": []
+        },
+        {
+            "prompt": "Mario thinks Luigi should maybe find his own look",
+            "tags": []
+        },
+        {
+            "prompt": "Neither of these people are gonna watch the shows they're recommending to each other",
+            "tags": []
+        },
+        {
+            "prompt": "No one in book club will admit they didn't read the book",
+            "tags": []
+        },
+        {
+            "prompt": "The presenters realize mid-pitch their 'Shark Tank' product already exists",
+            "tags": []
+        },
+        {
+            "prompt": "Ghost hunters interpret the sounds coming out of the tape recorder",
+            "tags": []
+        },
+        {
+            "prompt": "If 'The Bear' were as intense about work-life balance",
+            "tags": []
+        },
+        {
+            "prompt": "The booking process at horny jail",
+            "tags": []
+        },
+        {
+            "prompt": "A pilot is a little too excited to have to 'pull a Sully'",
+            "tags": []
+        },
+        {
+            "prompt": "An extremely vulgar rapper gives a censored performance at the Kids' Choice Awards",
+            "tags": []
+        },
+        {
+            "prompt": "The moment this video gets demonetized on Youtube",
+            "tags": []
+        },
+        {
+            "prompt": "A bear who just hibernated through like 250 commitments",
+            "tags": []
+        },
+        {
+            "prompt": "A hibachi chef trying to play it cool after chopping their hand clean off",
+            "tags": []
+        },
+        {
+            "prompt": "Good Cop/Fad Cop",
+            "tags": []
+        },
+        {
+            "prompt": "Every fucking conversation in L.A.",
+            "tags": []
+        },
+        {
+            "prompt": "C-3PO and R2-D2, with R2-D2 translated into English",
+            "tags": []
+        },
+        {
+            "prompt": "A tattoo artist who likes to punch up their clients' ideas",
+            "tags": []
+        },
+        {
+            "prompt": "An aspiring villain grabs coffee with a supervillain in order to pick their brain",
+            "tags": []
+        },
+        {
+            "prompt": "Two nerdy teens trade stepmom cards",
+            "tags": []
+        },
+        {
+            "prompt": "Black guys in a horror movie decide how they're going to get out of this one",
+            "tags": []
+        },
+        {
+            "prompt": "Trying to be encouraging with the teammate who has missed 82 foul shots this game",
+            "tags": []
+        },
+        {
+            "prompt": "A guy in an emergency thinks he's on a Youtube prank show\\",
+            "tags": []
+        },
+        {
+            "prompt": "Your high school bully's guided meditation",
+            "tags": []
+        },
+        {
+            "prompt": "A sexy but loud car alarm",
+            "tags": []
+        },
+        {
+            "prompt": "The godfather can't believe no one brought him a little snack",
+            "tags": []
+        },
+        {
+            "prompt": "A female sci-fi character written by a male writer",
+            "tags": []
+        },
+        {
+            "prompt": "J. Robert Deniro Oppenheimer",
+            "tags": []
+        },
+        {
+            "prompt": "Judas giving a toast at the last supper",
+            "tags": []
+        },
+        {
+            "prompt": "A couple so annoyingly in love they can't finish the fucking story",
+            "tags": []
+        },
+        {
+            "prompt": "A celebrity's unflattering wax figure reveal",
+            "tags": []
+        },
+        {
+            "prompt": "A 1930s noir scene in which every line is mysterious",
+            "tags": []
+        },
+        {
+            "prompt": "Bitchy mourners would have done this tacky candlelight vigil differently",
+            "tags": []
+        },
+        {
+            "prompt": "Professor X recruits who he thinks is a mutant but is in fact just a weird guy",
+            "tags": []
+        },
+        {
+            "prompt": "Noah's wife thinks he's taking the ark hobby a little too far",
+            "tags": []
+        },
+        {
+            "prompt": "Your family pitching ideas for your little comedy skits",
+            "tags": []
+        },
+        {
+            "prompt": "Bringing the sloppiest sandwich in the world to a friend's intervention",
+            "tags": []
+        },
+        {
+            "prompt": "Godzilla VS. Josh Ruben",
+            "tags": []
+        },
+        {
+            "prompt": "The similish pledge of allegiance",
+            "tags": []
+        },
+        {
+            "prompt": "Accepting an Oscar while shimmying your way out of a wedgie",
+            "tags": []
+        },
+        {
+            "prompt": "Hannibal Lecter at Sweetgreen",
+            "tags": []
+        },
+        {
+            "prompt": "A teenage manic mutant pixie ninja dream turtle girl",
+            "tags": []
+        },
+        {
+            "prompt": "Off-brand Bond villain 'Vagina Plenty'",
+            "tags": []
+        },
+        {
+            "prompt": "A couple calls for the check but doesn't know the hand motion",
+            "tags": []
+        },
+        {
+            "prompt": "The 'friendship' between two 'straight' people who will both come out in college",
+            "tags": []
+        },
+        {
+            "prompt": "A driverless car flirting with a cop to get out of a ticket",
+            "tags": []
+        },
+        {
+            "prompt": "Two gamers speed run a relationship",
+            "tags": []
+        },
+        {
+            "prompt": "Two catty teens critique Josh's performance",
+            "tags": []
+        },
+        {
+            "prompt": "Going home with someone who has a really specific voice for their pet",
+            "tags": []
+        },
+        {
+            "prompt": "A stock photographer asking their models for super specific scenarios",
+            "tags": []
+        },
+        {
+            "prompt": "The producers at this audition want to know if you're open to certain things",
+            "tags": []
+        },
+        {
+            "prompt": "Mads Mikkelsen wins a Kids' Choice Award",
+            "tags": []
+        },
+        {
+            "prompt": "Just giving up halfway through telling a story",
+            "tags": []
+        },
+        {
+            "prompt": "Hot Topic's new spokesman is Tim Curry",
+            "tags": []
+        },
+        {
+            "prompt": "Trying to sneak out of your old rickety-ass house when you accidentally knock over a porcelain vase, waking up your grandmother. We cut back-and-forth between your grandmother waking up to investigate the noise and you hurriedly putting the vase back together with superglue",
+            "tags": []
+        },
+        {
+            "prompt": "The guy who works at NPR's \u2018Tiny Desk\u2019 just trying to get some work done",
+            "tags": []
+        },
+        {
+            "prompt": "The longer this speech goes on, the less clear what the occasion is",
+            "tags": []
+        },
+        {
+            "prompt": "Buckingham Palace guards tying to make each other laugh",
+            "tags": []
+        },
+        {
+            "prompt": "A person zoned out in the Zoom meeting gets asked a question",
+            "tags": []
+        },
+        {
+            "prompt": "Two Australian actors's accents keep slipping through their American ones",
+            "tags": []
+        },
+        {
+            "prompt": "A cutscene in a video game that's glitching out",
+            "tags": []
+        },
+        {
+            "prompt": "If the courtroom witness stand were a hot tub",
+            "tags": []
+        },
+        {
+            "prompt": "If Siskel and Ebert reviewed people's lives when they die",
+            "tags": []
+        },
+        {
+            "prompt": "When mixing friend groups doesn't really work",
+            "tags": []
+        },
+        {
+            "prompt": "Rocking on your porch at 80, recounting your time on \u2018Make Some Noise\u2019",
+            "tags": []
+        },
+        {
+            "prompt": "The Noise Boys all get Freaky Friday'd",
+            "tags": []
+        },
+        {
+            "prompt": "Winner of the 'Fear of Public Speaking' award",
+            "tags": []
+        },
+        {
+            "prompt": "The most sophisticated toilet in the world",
+            "tags": []
+        },
+        {
+            "prompt": "A theory that the world isn't round or flat but something else entirely",
+            "tags": []
+        },
+        {
+            "prompt": "A cozy ASMR Twitch streamer quietly rage quits",
+            "tags": []
+        },
+        {
+            "prompt": "A rock climber, using a bunch of rock climbing lingo, recollects his gnarliest climb",
+            "tags": []
+        },
+        {
+            "prompt": "Ally Beardsley's 'What I spend in a day' TikTok video",
+            "tags": []
+        },
+        {
+            "prompt": "Whoops! You zoned out staring into the abyss, and now it thinks you're interested",
+            "tags": []
+        },
+        {
+            "prompt": "A date that is only red flags",
+            "tags": []
+        },
+        {
+            "prompt": "Trying to exchange your brain at life's customer service department",
+            "tags": []
+        },
+        {
+            "prompt": "We cut back to last season's Mr. Mayo scene, still in progress",
+            "tags": []
+        },
+        {
+            "prompt": "The devil welcomes Jacob Wysocki, the first ever person to go to hell",
+            "tags": []
+        },
+        {
+            "prompt": "This census taker might be trying to move in with you",
+            "tags": []
+        },
+        {
+            "prompt": "Showing your friends a Youtube video but it's not really hitting",
+            "tags": []
+        },
+        {
+            "prompt": "A sex ed teacher who just said 'there are no dumb questions' receives a flurry of stupid questions",
+            "tags": []
+        },
+        {
+            "prompt": "The three-legged little plastic table in the middle of your pizza",
+            "tags": []
+        },
+        {
+            "prompt": "The DVD commentary over this 'Make Some Noise' episode",
+            "tags": []
+        },
+        {
+            "prompt": "A sea shanty about struggling socially on the ship",
+            "tags": []
+        },
+        {
+            "prompt": "The Oompa Loompa song after a kid was straight-up decapitated",
+            "tags": []
+        },
+        {
+            "prompt": "The foreman of the Cheesecake Factory",
+            "tags": []
+        },
+        {
+            "prompt": "An ad for a new Burger King sandwich: The King Lear",
+            "tags": []
+        },
+        {
+            "prompt": "A horny chain text message for arbor day",
+            "tags": []
+        },
+        {
+            "prompt": "Bob Ross teaches you how to draw insulting caricatures",
+            "tags": []
+        },
+        {
+            "prompt": "A Jane Austen protagonist gets the ick",
+            "tags": []
+        },
+        {
+            "prompt": "Sweeny Todd on 'The Great British Baking Show'",
+            "tags": []
+        },
+        {
+            "prompt": "A 'comedy sketch' written by bad A.I.",
+            "tags": []
+        },
+        {
+            "prompt": "Eugene from marching band only invited the hot cheerleader to the renaissance faire as a stupid bet",
+            "tags": []
+        },
+        {
+            "prompt": "Movie buffs discuss the symbolism of an accidentally left-in water bottle",
+            "tags": []
+        },
+        {
+            "prompt": "Two inventors arrive at the patent office to register the same invention at the same time",
+            "tags": []
+        },
+        {
+            "prompt": "The ghosts of past, present and future huddle and strategize in between visits to Scrooge",
+            "tags": []
+        },
+        {
+            "prompt": "So that's why the McDonald's ice cream machine is always broken",
+            "tags": []
+        },
+        {
+            "prompt": "A 21-pun salute",
+            "tags": []
+        },
+        {
+            "prompt": "Abraham Lin-Con",
+            "tags": []
+        },
+        {
+            "prompt": "A hopeless romantic is wrecked by the time they reach the airport gate",
+            "tags": []
+        },
+        {
+            "prompt": "Sampling a flight of bees",
+            "tags": []
+        },
+        {
+            "prompt": "The white power ranger just said their name out loud for the first time",
+            "tags": []
+        },
+        {
+            "prompt": "Mr. Beastiality",
+            "tags": []
+        },
+        {
+            "prompt": "A kid who's definitely the reason their parents got divorced",
+            "tags": []
+        },
+        {
+            "prompt": "Trying a little too hard to cry in an audition",
+            "tags": []
+        },
+        {
+            "prompt": "A driver and GPS have undeniable chemistry",
+            "tags": []
+        },
+        {
+            "prompt": "How you wish your upstairs neighbors behaved",
+            "tags": []
+        },
+        {
+            "prompt": "A hero already getting over the death of a sidekick as they're bleeding out",
+            "tags": []
+        },
+        {
+            "prompt": "Laying off your imaginary friend",
+            "tags": []
+        },
+        {
+            "prompt": "A cop pulls over his mommy",
+            "tags": []
+        },
+        {
+            "prompt": "Two finalists at the normal guy pageant",
+            "tags": []
+        },
+        {
+            "prompt": "A '90s sitcom audience keeps doing the wrong response",
+            "tags": []
+        },
+        {
+            "prompt": "Baseball hotdog vendors get into a bidding war",
+            "tags": []
+        },
+        {
+            "prompt": "The angel, the devil and some guy who loves pottery on your shoulders",
+            "tags": []
+        },
+        {
+            "prompt": "A monk shares the meaning of life after 30 years in meditation",
+            "tags": []
+        },
+        {
+            "prompt": "A youtuber welcomes viewers while losing a lot of blood",
+            "tags": []
+        },
+        {
+            "prompt": "A macho man screaming in a haunted house",
+            "tags": []
+        },
+        {
+            "prompt": "One of those 'Sunday reset' videos on TikTok",
+            "tags": []
+        },
+        {
+            "prompt": "A female chimney sweep talks about making it in a make-dominant profession",
+            "tags": []
+        },
+        {
+            "prompt": "A dog watched its owners do the nasty for the first time",
+            "tags": []
+        },
+        {
+            "prompt": "Be warned: This hibachi chef *will* pelt an egg at you",
+            "tags": []
+        },
+        {
+            "prompt": "A dramatic monologue from Tennessee Williams' Tony award winning 'Teeny Tiny Little Poops'",
+            "tags": []
+        },
+        {
+            "prompt": "Samuel L. Jackson gets 10 years older every time he curses",
+            "tags": []
+        },
+        {
+            "prompt": "A bride and groom thought it would be romantic to get married in front of a loud waterfall",
+            "tags": []
+        },
+        {
+            "prompt": "This Uber's perks are insane",
+            "tags": []
+        },
+        {
+            "prompt": "Morpheus tries to explain the Matrix but Neo doesn't get it",
+            "tags": []
+        },
+        {
+            "prompt": "A Love is Blind contestant is secretly a horse",
+            "tags": []
+        },
+        {
+            "prompt": "A newswoman's kink is keeping the weatherman out in a storm",
+            "tags": []
+        },
+        {
+            "prompt": "The person in the next stall wants a series of favors",
+            "tags": []
+        },
+        {
+            "prompt": "Christmas carolers who only sing experimental originals",
+            "tags": []
+        },
+        {
+            "prompt": "An Ikea furniture naming brainstorm",
+            "tags": []
+        },
+        {
+            "prompt": "A talkback with the cast and director of Tennessee Williams' 'Teeny Tiny Little Poops'",
+            "tags": []
+        },
+        {
+            "prompt": "A clown-phobic clown puts on clown makeup",
+            "tags": []
+        },
+        {
+            "prompt": "A pencil sharpener that gets off on being fed pencils",
+            "tags": []
+        },
+        {
+            "prompt": "Someone called upon to say grace who doesn't know how to say grace",
+            "tags": []
+        },
+        {
+            "prompt": "The sign-off credits of a podcast with too much staff",
+            "tags": []
+        },
+        {
+            "prompt": "A surfer, using a bunch of surfing lingo, recollects his gnarliest ride",
+            "tags": []
+        },
+        {
+            "prompt": "A gym coach substitute teaches art class",
+            "tags": []
+        },
+        {
+            "prompt": "A dying person's last words, but they realize they have a little more life in them so they have to vamp",
+            "tags": []
+        },
+        {
+            "prompt": "A monster truck voiceover for a peaceful Sunday",
+            "tags": []
+        },
+        {
+            "prompt": "A clickbait newsie",
+            "tags": []
+        },
+        {
+            "prompt": "A boxing coach gives bad advice between rounds",
+            "tags": []
+        },
+        {
+            "prompt": "Tennis match grunts get out of hand",
+            "tags": []
+        },
+        {
+            "prompt": "Tourists in Hawaii enjoying the novelty of being melted by lava",
+            "tags": []
+        },
+        {
+            "prompt": "Olympic swimmers talk trash between strokes",
+            "tags": []
+        },
+        {
+            "prompt": "Two NYC-ers who were born in NYC, raised in NYC, and have never left NYC, bump into each other on the sidewalks of NYC",
+            "tags": []
+        },
+        {
+            "prompt": "A werewolf who only turns into a wolf when their account is overdrawn",
+            "tags": []
+        },
+        {
+            "prompt": "Those trick-or-treaters who are way too old to be trick-or-treating",
+            "tags": []
+        },
+        {
+            "prompt": "Three sports announcers doing a play-by-play of each other",
+            "tags": []
+        },
+        {
+            "prompt": "A quirky educational theater troupe teaches you a bittersweet life lesson",
+            "tags": []
+        },
+        {
+            "prompt": "Bimbo Baggins",
+            "tags": []
+        },
+        {
+            "prompt": "A believable quintuple-take",
+            "tags": []
+        },
+        {
+            "prompt": "An Italian dad insists you taste this Bolognese",
+            "tags": []
+        },
+        {
+            "prompt": "A singing telegram serving you for property encroachment",
+            "tags": []
+        },
+        {
+            "prompt": "Disclaimers about the guy you're seeing before showing his picture to your friends",
+            "tags": []
+        },
+        {
+            "prompt": "The creator of the square wheel is in denial about the round one",
+            "tags": []
+        },
+        {
+            "prompt": "A child's lore dump before their friend joins playtime",
+            "tags": []
+        },
+        {
+            "prompt": "Bring your competitive sibling to work day",
+            "tags": []
+        },
+        {
+            "prompt": "Little Red Riding Hood apparently always roasted her grandma like that",
+            "tags": []
+        },
+        {
+            "prompt": "Two ten-thousand-bees-in-a-trenchcoat go on a date",
+            "tags": []
+        },
+        {
+            "prompt": "Comic Sans hits on Helvetica at a party",
+            "tags": []
+        },
+        {
+            "prompt": "Toxically positive Christmas elves",
+            "tags": []
+        },
+        {
+            "prompt": "Students react to the first teacher to ever sit casually on a desk",
+            "tags": []
+        },
+        {
+            "prompt": "'Succession' but it's about the New York Times puzzle team",
+            "tags": []
+        },
+        {
+            "prompt": "The 'CW' version of Make Some Noise",
+            "tags": []
+        },
+        {
+            "prompt": "Tom Cruise explains his dangerous new 'Mission Impossible' stunt/Tom Cruise's new 'Mission Impossible' stunt goes terribly wrong",
+            "tags": []
+        },
+        {
+            "prompt": "5 rejected Mario idle animations",
+            "tags": []
+        },
+        {
+            "prompt": "Kermit the Frog representing himself on a murder charge",
+            "tags": []
+        },
+        {
+            "prompt": "What D&D sounds like to someone who doesn't play",
+            "tags": []
+        },
+        {
+            "prompt": "John Wick realizes his dog was just hiding under the bed",
+            "tags": []
+        },
+        {
+            "prompt": "A takedown of billionaires Rihanna, Beyonc\u00e9, and Oprah",
+            "tags": []
+        },
+        {
+            "prompt": "Robin Williams keeps getting bigger and smaller (pitched by Brennan)",
+            "tags": []
+        },
+        {
+            "prompt": "Tony Robbins being attacked by seagulls (pitched by Zac)",
+            "tags": []
+        },
+        {
+            "prompt": "A doctor about to operate and he realizes he's never used his left arm before (pitched by Brennan)",
+            "tags": []
+        },
+        {
+            "prompt": "A coroner who looks in the rearview mirror and realizes the body got lost on the highway like half a mile ago (pitched by Josh)",
+            "tags": []
+        },
+        {
+            "prompt": "King Arthur's buddy Chaz, who lost Excalibur (pitched by Zac)",
+            "tags": []
+        },
+        {
+            "prompt": "Inarticulate 'Braveheart' (pitched by Josh)",
+            "tags": []
+        },
+        {
+            "prompt": "Two boom guys on Variety's 'Boom Guys On Boom Guys'",
+            "tags": []
+        },
+        {
+            "prompt": "One of these students clearly did all the work on the group project",
+            "tags": []
+        },
+        {
+            "prompt": "A re-animated corpse is somehow nailing this job interview",
+            "tags": []
+        },
+        {
+            "prompt": "Jigsaw might just be a little lonely",
+            "tags": []
+        },
+        {
+            "prompt": "A noble knight's sworn oath starts to concern their liege lord",
+            "tags": []
+        },
+        {
+            "prompt": "Two grizzled fishermen compare love stories",
+            "tags": []
+        },
+        {
+            "prompt": "One mafioso is too invested in the business that's supposed to be a front",
+            "tags": []
+        },
+        {
+            "prompt": "One of the daddy-daughter talks at the end of every episode of 'My Three Dads'",
+            "tags": []
+        },
+        {
+            "prompt": "Aliens whose only understanding of the human race is from Dropout content",
+            "tags": []
+        },
+        {
+            "prompt": "A flock of birds flies into a plane engine",
+            "tags": []
+        },
+        {
+            "prompt": "A barista lists off the 11 kinds of milk you can get",
+            "tags": []
+        },
+        {
+            "prompt": "The dodgeball coach is a little too hard on the kids",
+            "tags": []
+        },
+        {
+            "prompt": "Winning an embarrassing amount of tickets at an arcade",
+            "tags": []
+        },
+        {
+            "prompt": "A 'let's make my kids' lunch' TikTok that makes you feel bad about yourself",
+            "tags": []
+        },
+        {
+            "prompt": "A track announcer who's clearly attracted to one of the horses",
+            "tags": []
+        },
+        {
+            "prompt": "The Terminator's batteries are dying",
+            "tags": []
+        },
+        {
+            "prompt": "An indecisive person orders a dozen donuts",
+            "tags": []
+        },
+        {
+            "prompt": "Your therapist: An aunt drunk on white wine at a wedding",
+            "tags": []
+        },
+        {
+            "prompt": "Jack builds up the courage to ask Rose if they can share the door",
+            "tags": []
+        },
+        {
+            "prompt": "A witness interviewed by the local news tries way too hard to get autotuned and go viral",
+            "tags": []
+        },
+        {
+            "prompt": "This couple's shortlist of baby names is batshit",
+            "tags": []
+        },
+        {
+            "prompt": "This theater piece sure does involve a lot of pausing the scene and talking to the audience",
+            "tags": []
+        },
+        {
+            "prompt": "Catty teens roast Sam's outfit",
+            "tags": []
+        },
+        {
+            "prompt": "Italian mobsters try to out-order each other at dinner",
+            "tags": []
+        },
+        {
+            "prompt": "One friend is taking the birthday song way too seriously",
+            "tags": []
+        },
+        {
+            "prompt": "Two indoor cats & the outdoor cat they despise",
+            "tags": []
+        },
+        {
+            "prompt": "Mario walking on hot coals",
+            "tags": []
+        },
+        {
+            "prompt": "A woman in Hell wants to speak to the manager",
+            "tags": []
+        },
+        {
+            "prompt": "Explaining the rules to the board game Sisyphus' Boulder",
+            "tags": []
+        },
+        {
+            "prompt": "Marvel's newest villian: The Gaslighter",
+            "tags": []
+        },
+        {
+            "prompt": "Britney Spear's newest single: This Is 40",
+            "tags": []
+        },
+        {
+            "prompt": "In an alternate universe, Mark Zuckerberg produces a local ad for his waterpark, The Wet-a-verse",
+            "tags": []
+        },
+        {
+            "prompt": "Two Saturday morning cartoon VO artists who, looking at their faces, you can tell are completely over it, but listening to their voices you would never know",
+            "tags": []
+        },
+        {
+            "prompt": "An industrial training video in which it is fundamentally unclear what the company does",
+            "tags": []
+        },
+        {
+            "prompt": "Wizards trying to one-up each other with cryptic last words",
+            "tags": []
+        },
+        {
+            "prompt": "A villain and their real estate agent tour volcano lairs",
+            "tags": []
+        },
+        {
+            "prompt": "An audition scene between an experienced performer and a terrible casting assistant",
+            "tags": []
+        },
+        {
+            "prompt": "Dueling anime characters over-explaining evert move",
+            "tags": []
+        },
+        {
+            "prompt": "Three mafiosos: Mr. Nice, Mr. Mean, and Mr. In-Between",
+            "tags": []
+        },
+        {
+            "prompt": "Internet comments that people think are nice but aren't",
+            "tags": []
+        },
+        {
+            "prompt": "A scene between two actors where they clearly ADR'd one of them",
+            "tags": []
+        },
+        {
+            "prompt": "A third grader got a hold of the script for this medical drama and changed some words \u00e0 la Mad Libs",
+            "tags": []
+        },
+        {
+            "prompt": "Questions and comments your relatives have about your careers",
+            "tags": []
+        },
+        {
+            "prompt": "An election reporter without any touchscreen finesse",
+            "tags": []
+        },
+        {
+            "prompt": "An evil laugh turned asthma attack",
+            "tags": []
+        },
+        {
+            "prompt": "'Hi-Yah' for every Tae Kwon Do belt",
+            "tags": []
+        },
+        {
+            "prompt": "Runner-up in the 2023 air guitar championships",
+            "tags": []
+        },
+        {
+            "prompt": "Winner of the 2023 air guitar championships",
+            "tags": []
+        },
+        {
+            "prompt": "A person in line at the buffet feels the need to make a little comment about every dish",
+            "tags": []
+        },
+        {
+            "prompt": "Marvel announces Phase 5 is all Raisin Man",
+            "tags": []
+        },
+        {
+            "prompt": "A 'Top Chef' contestant shows off his disastrous dish to the judges",
+            "tags": []
+        },
+        {
+            "prompt": "A true crime podcast about the Hamburglar",
+            "tags": []
+        },
+        {
+            "prompt": "Wood shop kids weirdly competitive about their spoons",
+            "tags": []
+        },
+        {
+            "prompt": "Adam and Eve broach an open relationship",
+            "tags": []
+        },
+        {
+            "prompt": "Pro Models' couples posing tutorial",
+            "tags": []
+        },
+        {
+            "prompt": "This Airbnb owner sure is hanging out for a while",
+            "tags": []
+        },
+        {
+            "prompt": "Politely asking the deli guy- 'Mr. Mayonnaise'- for no mayo",
+            "tags": []
+        },
+        {
+            "prompt": "Maybe it was a bad idea to break up on a rollercoaster",
+            "tags": []
+        },
+        {
+            "prompt": "The part of the Oscars where they show a clip from each movie & then cut to that actor",
+            "tags": []
+        },
+        {
+            "prompt": "One of those very disturbing 'childrens' videos on youtube",
+            "tags": []
+        },
+        {
+            "prompt": "An alternative universe where the only difference is that the word for 'money' is 'poopoopeepee'",
+            "tags": []
+        },
+        {
+            "prompt": "A TikTok trend that is absolutely going to kill someone",
+            "tags": []
+        },
+        {
+            "prompt": "A sage philosopher explains why he can't pay this month's rent",
+            "tags": []
+        },
+        {
+            "prompt": "Your therapist just vamping because she wasn't listening",
+            "tags": []
+        },
+        {
+            "prompt": "Jesus's return is low-key toxic",
+            "tags": []
+        },
+        {
+            "prompt": "After a legendary victory, an ancient Olympian gives a post-game press conference wherein he thanks as many gods as possible - each for very specific, on-brand divine contributions - while also out of breath",
+            "tags": []
+        },
+        {
+            "prompt": "One of those year-in-review Christmas cards from a family on the absolute brink",
+            "tags": []
+        },
+        {
+            "prompt": "This Shark Tank pitch is just a crime",
+            "tags": []
+        },
+        {
+            "prompt": "Two aunts at Thanksgiving try to out-praise each other's side dishes",
+            "tags": []
+        },
+        {
+            "prompt": "This tablet is just gonna ask you some really intense personal questions",
+            "tags": []
+        },
+        {
+            "prompt": "Someone who eats through their butthole trying to discreetly get through a business lunch",
+            "tags": []
+        },
+        {
+            "prompt": "The absolutely decrepit Bachelor",
+            "tags": []
+        },
+        {
+            "prompt": "Every excuse someone gives to get out of a hang is not a problem at all",
+            "tags": []
+        },
+        {
+            "prompt": "Playing 'two truths and a friendship-ruining truth'",
+            "tags": []
+        },
+        {
+            "prompt": "Awkward things to say at a high school reunion",
+            "tags": []
+        },
+        {
+            "prompt": "Gandalf is four drinks in trying to explain a party game to the hobbits",
+            "tags": []
+        },
+        {
+            "prompt": "The Ugly Duckling calls their agent about the title of the book",
+            "tags": []
+        },
+        {
+            "prompt": "A set PA on a power trip",
+            "tags": []
+        },
+        {
+            "prompt": "Oprah giving everyone a free giant tortoise",
+            "tags": []
+        },
+        {
+            "prompt": "An obituary for someone who definitely faked their own death",
+            "tags": []
+        },
+        {
+            "prompt": "Cruella De Vil's evil plot to find forever homes for 101 rescue puppies",
+            "tags": []
+        },
+        {
+            "prompt": "Your grandmother gives us her review of this show",
+            "tags": []
+        },
+        {
+            "prompt": "The quicksand is really sorry it's gotta do this to you",
+            "tags": []
+        },
+        {
+            "prompt": "'Reading a book' and 'Watching TV' vying for your time before bed",
+            "tags": []
+        },
+        {
+            "prompt": "A therapist can't get past the fact their client hasn't seen 'Titanic'",
+            "tags": []
+        },
+        {
+            "prompt": "Two morning show hosts out-pleasant each other",
+            "tags": []
+        },
+        {
+            "prompt": "A boss confronts their employee who believes they are in a musical",
+            "tags": []
+        },
+        {
+            "prompt": "A quick survey about your experience with life so far",
+            "tags": []
+        },
+        {
+            "prompt": "Friends after a movie trying to convince each other they care about the credits",
+            "tags": []
+        },
+        {
+            "prompt": "Dudes who only know each other because their wives are friends",
+            "tags": []
+        },
+        {
+            "prompt": "The high school theater stress dream you still have in your 30's",
+            "tags": []
+        },
+        {
+            "prompt": "The tour guide at George Washington's house clearly thinks she could have hooked up with him",
+            "tags": []
+        },
+        {
+            "prompt": "A nun's wedding vows to Jesus",
+            "tags": []
+        },
+        {
+            "prompt": "A local giving way too much information when asked for directions",
+            "tags": []
+        },
+        {
+            "prompt": "Periodic Table: The Musical",
+            "tags": []
+        },
+        {
+            "prompt": "A realtor shows a house your brain invented in a dream",
+            "tags": []
+        },
+        {
+            "prompt": "A perfumer explains the smell notes in their worst fragrance",
+            "tags": []
+        },
+        {
+            "prompt": "Deeply southern women talk shit in the nicest way possible",
+            "tags": []
+        },
+        {
+            "prompt": "Female characters who just can't seem to pass the Bechdel test",
+            "tags": []
+        },
+        {
+            "prompt": "Two very different types of drunk girl in the bar bathroom",
+            "tags": []
+        },
+        {
+            "prompt": "An open-heart surgeon with the attitude of a cool hairdresser",
+            "tags": []
+        },
+        {
+            "prompt": "Your parents narrate the menu",
+            "tags": []
+        },
+        {
+            "prompt": "Two swifties after Taylor starts dating former secretary of state John Kerry",
+            "tags": []
+        },
+        {
+            "prompt": "Pangea announces its split on social media",
+            "tags": []
+        },
+        {
+            "prompt": "Mormon parents give you the 'soaking' talk",
+            "tags": []
+        },
+        {
+            "prompt": "Various messages about your free couch on Facebook Marketplace",
+            "tags": []
+        },
+        {
+            "prompt": "A stages of grief themed rollercoaster",
+            "tags": []
+        },
+        {
+            "prompt": "A pop star edges the concert crowd with the lead-up to her big hit",
+            "tags": []
+        },
+        {
+            "prompt": "The pilot of a spoonful of baby food",
+            "tags": []
+        },
+        {
+            "prompt": "Someone committed to getting alllll the fruit off of the peach pit",
+            "tags": []
+        },
+        {
+            "prompt": "A prinses tootin in a mewsick way (A princess tootin' in a music way)",
+            "tags": []
+        },
+        {
+            "prompt": "A chicken is shooting whatever from his whatever gun",
+            "tags": []
+        },
+        {
+            "prompt": "A me I'm vometing in a dramatic way blaah (A me! I'm vomiting in a dramatic way, blah)",
+            "tags": []
+        },
+        {
+            "prompt": "To get the wifi password at the coffee shop you must first do this",
+            "tags": []
+        },
+        {
+            "prompt": "Gym bros try to out-protein each other",
+            "tags": []
+        },
+        {
+            "prompt": "The 911 operator is looking to chill after this",
+            "tags": []
+        },
+        {
+            "prompt": "The principal and the coolest kid in school negotiate terms after four years of war",
+            "tags": []
+        },
+        {
+            "prompt": "Your dad's sneeze sort of sounded like 'I love you'",
+            "tags": []
+        },
+        {
+            "prompt": "Forgetting your partner's name mid-proposal",
+            "tags": []
+        },
+        {
+            "prompt": "No one wants to be the first to say what they thought about the play",
+            "tags": []
+        },
+        {
+            "prompt": "A zero-tolerance choreographer who refuses to demonstrate the routine",
+            "tags": []
+        },
+        {
+            "prompt": "An old timey gang sticks up a sperm bank",
+            "tags": []
+        },
+        {
+            "prompt": "The unreleased lyrics to the 'Jurassic Park' theme",
+            "tags": []
+        },
+        {
+            "prompt": "Dorothy introduces three other members of her entourage and what they're missing",
+            "tags": []
+        },
+        {
+            "prompt": "The pastor's first sermon after coming back from Las Vegas",
+            "tags": []
+        },
+        {
+            "prompt": "Every sentence of this Oscar speech is a new thought",
+            "tags": []
+        },
+        {
+            "prompt": "This pop star wants her fans to believe in themselves and tax relief for high earners",
+            "tags": []
+        },
+        {
+            "prompt": "The government quietly confirms even more insane UFO stuff",
+            "tags": []
+        },
+        {
+            "prompt": "A cop pulls someone over because of vibes",
+            "tags": []
+        },
+        {
+            "prompt": "A beautiful moment of silence shared between a couple of 20 years, broken by a question so dumb it shatters everything",
+            "tags": []
+        },
+        {
+            "prompt": "It's unclear where this skywriting message is going",
+            "tags": []
+        },
+        {
+            "prompt": "It sure seems like these Thanksgiving Day Parade hosts want to fuck a float",
+            "tags": []
+        },
+        {
+            "prompt": "Not only does your date talk to plants but they're super mean to one of them",
+            "tags": []
+        },
+        {
+            "prompt": "Two old southern football coaches try to recruit each other",
+            "tags": []
+        },
+        {
+            "prompt": "Nobody is clear who the intervention is for",
+            "tags": []
+        },
+        {
+            "prompt": "The press tour for 'Press Tour: The Movie'",
+            "tags": []
+        },
+        {
+            "prompt": "An alternate dimension where everything is exactly the same except for one specific thing",
+            "tags": []
+        },
+        {
+            "prompt": "Coked-up Hollywood executives making huge decisions",
+            "tags": []
+        },
+        {
+            "prompt": "The moment it occurs to you your friends want to swing",
+            "tags": []
+        },
+        {
+            "prompt": "A doorbell song is way too long",
+            "tags": []
+        },
+        {
+            "prompt": "Both sides of a dolphin argument",
+            "tags": []
+        },
+        {
+            "prompt": "A middle school slam poetry champ",
+            "tags": []
+        },
+        {
+            "prompt": "The most agreeable man in the world gets punched in the belly",
+            "tags": []
+        },
+        {
+            "prompt": "The Tooth Fairy tries to sell teeth at a profit",
+            "tags": []
+        },
+        {
+            "prompt": "A meteorologist doesn't know the names of weather phenomena",
+            "tags": []
+        },
+        {
+            "prompt": "One-upping the person in front of you's grief at the casket",
+            "tags": []
+        },
+        {
+            "prompt": "Naming all 50 states but being unable to mask your disdain for certain ones",
+            "tags": []
+        },
+        {
+            "prompt": "Busy cowboys try to schedule a gunfight",
+            "tags": []
+        },
+        {
+            "prompt": "Joyless wooden soviet toys come to life like in 'Toy Story'",
+            "tags": []
+        },
+        {
+            "prompt": "These square dance instructions are a little troubling",
+            "tags": []
+        },
+        {
+            "prompt": "If men called each other 'daddy' instead of 'dude'",
+            "tags": []
+        },
+        {
+            "prompt": "A robot cheating off a human in a captcha test",
+            "tags": []
+        },
+        {
+            "prompt": "'The Purge' but for social taboos",
+            "tags": []
+        },
+        {
+            "prompt": "Sleep paralysis demons in the break room",
+            "tags": []
+        },
+        {
+            "prompt": "Bigfoot hunters outdoing each other's encounter stories",
+            "tags": []
+        },
+        {
+            "prompt": "Ghost of St. Patrick's Day's Past",
+            "tags": []
+        },
+        {
+            "prompt": "A toxic ballet teacher goes over the choreography impatiently",
+            "tags": []
+        },
+        {
+            "prompt": "The first person to discover you can drink cow's milk",
+            "tags": []
+        },
+        {
+            "prompt": "Brennan's Wario, Wennan Wee Wulligan",
+            "tags": []
+        },
+        {
+            "prompt": "Your great aunt has something to say about everything in your junk drawer",
+            "tags": []
+        },
+        {
+            "prompt": "The toxic ballet teacher's assistant goes over the same choreography as before",
+            "tags": []
+        },
+        {
+            "prompt": "The Germaphone's Association's secret handshake",
+            "tags": []
+        },
+        {
+            "prompt": "Two reindeer quietly trash talking Santa",
+            "tags": []
+        },
+        {
+            "prompt": "A dramatic video game cut scene transitions awkwardly into the gameplay",
+            "tags": []
+        },
+        {
+            "prompt": "White water rapids tour guides prepare their group for the Bermuda Triangle",
+            "tags": []
+        },
+        {
+            "prompt": "Questions your little sibling insists on asking you before you fall asleep",
+            "tags": []
+        },
+        {
+            "prompt": "The Great British Baking Show's judges going down the line on a technical challenge",
+            "tags": []
+        },
+        {
+            "prompt": "The person with one line in the play somehow manages to fuck it up",
+            "tags": []
+        },
+        {
+            "prompt": "Paparazzi for a middle school English teacher",
+            "tags": []
+        },
+        {
+            "prompt": "The toxic ballet teacher's students' final performance",
+            "tags": []
+        },
+        {
+            "prompt": "Nicole Kidman's AMC-ish ad for The Container Store",
+            "tags": []
+        },
+        {
+            "prompt": "A cereal mascot with a healthy, secure attachment style to their cereal",
+            "tags": []
+        },
+        {
+            "prompt": "Your dad grills the waiter about the bill",
+            "tags": []
+        },
+        {
+            "prompt": "A country star talks about her humble upbringing as the child of a hedge fund manager",
+            "tags": []
+        },
+        {
+            "prompt": "A Boy Scout leader levels with you about what skills really matter in life",
+            "tags": []
+        },
+        {
+            "prompt": "A jury foreman puts some 'pizzaz' in the verdict",
+            "tags": []
+        },
+        {
+            "prompt": "Realizing mid-date you're going viral",
+            "tags": []
+        },
+        {
+            "prompt": "Immediately regretting holding up a bank",
+            "tags": []
+        },
+        {
+            "prompt": "Breaking the news about the affair doubles as the birds and the bees talk",
+            "tags": []
+        },
+        {
+            "prompt": "Sully the pilot tries to use his heroism to get a table at a restaurant",
+            "tags": []
+        },
+        {
+            "prompt": "A blackjack dealer introduces some new game mechanics they designed",
+            "tags": []
+        },
+        {
+            "prompt": "Your friend who complained all board game night just won",
+            "tags": []
+        },
+        {
+            "prompt": "The tension in this reality show reunion episode is going to bubble over at any moment",
+            "tags": []
+        },
+        {
+            "prompt": "New parents subtly keep their hot mess friend from holding the baby",
+            "tags": []
+        },
+        {
+            "prompt": "A student film that somehow touches on every issue",
+            "tags": []
+        },
+        {
+            "prompt": "The Pok\u00e9mon in order of fuckability",
+            "tags": []
+        },
+        {
+            "prompt": "'If You Give a Mouse an Edible'",
+            "tags": []
+        },
+        {
+            "prompt": "A judge vamping because the deliberation room isn't ready yet",
+            "tags": []
+        },
+        {
+            "prompt": "The Grinch who stole Shark Week",
+            "tags": []
+        },
+        {
+            "prompt": "A player on 'The Traitors' is banished and steps into the 'Circle of Truth'. First, she cleverly calls out 3 players who voted her out: Mr. Bean, Guy Fieri, and the Very Hungry Caterpillar. Then, she manages to fake us out 3 times as to whether or not she's a Faithful or Traitor before exiting the show",
+            "tags": []
+        },
+        {
+            "prompt": "This mall Santa's taking some bold swings with his character's lore",
+            "tags": []
+        },
+        {
+            "prompt": "A matryoshka doll gets an ultrasound",
+            "tags": []
+        },
+        {
+            "prompt": "A spelling bee contestant's many, many clarifying questions",
+            "tags": []
+        },
+        {
+            "prompt": "A ren faire village idiot's performance review",
+            "tags": []
+        },
+        {
+            "prompt": "Consoling a friend while also practicing your words-of-the-day",
+            "tags": []
+        },
+        {
+            "prompt": "The Magic Mirror from 'Snow White' gets hung up on technicalities",
+            "tags": []
+        },
+        {
+            "prompt": "Hour three of hanging one-handed off a cliff",
+            "tags": []
+        },
+        {
+            "prompt": "A CNN panel baffled as to why Robin Hood is so popular",
+            "tags": []
+        },
+        {
+            "prompt": "A family band who loves to sing in 3-part harmony but they get into an argument at Thanksgiving (Gift Prompt from Scott Aukerman)",
+            "tags": []
+        },
+        {
+            "prompt": "The Holy Trinity looks to add a fourth",
+            "tags": []
+        },
+        {
+            "prompt": "Batman doing Cameo",
+            "tags": []
+        },
+        {
+            "prompt": "A sommelier who's never tasted wine",
+            "tags": []
+        },
+        {
+            "prompt": "An old-timey prospector who is getting into crypto",
+            "tags": []
+        },
+        {
+            "prompt": "An assassin assembling the world's most intricate sniper rifle",
+            "tags": []
+        },
+        {
+            "prompt": "That guy in the movie who's definitely about to be hit by a bus",
+            "tags": []
+        },
+        {
+            "prompt": "A carnival barker for the free section of Craigslist",
+            "tags": []
+        },
+        {
+            "prompt": "Jason Bateman giving an inspiring locker room speech",
+            "tags": []
+        },
+        {
+            "prompt": "A drive-thru order from the restaurant Leftovers",
+            "tags": []
+        },
+        {
+            "prompt": "A monologue from HBO's \u201cGame of Rock Paper Scissors\u201d",
+            "tags": []
+        },
+        {
+            "prompt": "Slimer tries to convince the genius bar his phone wasn't slimed",
+            "tags": []
+        },
+        {
+            "prompt": "An obviously stolen item at Antiques Road Show",
+            "tags": []
+        },
+        {
+            "prompt": "The mushrooms hit Samwise and Frodo at the same time",
+            "tags": []
+        },
+        {
+            "prompt": "An astronaut trying to cover up to NASA that they really fucked up",
+            "tags": []
+        },
+        {
+            "prompt": "Two sea captains competing for who loves the sea more",
+            "tags": []
+        },
+        {
+            "prompt": "A scene from a nixed version of Castaway in which Wilson was a talking animated volleyball",
+            "tags": []
+        },
+        {
+            "prompt": "Friends who don't know how to count on New Year's Eve",
+            "tags": []
+        },
+        {
+            "prompt": "From the CD \u201cSounds to help you sleep\u201d: Jungle noises, plus Steve who got lost",
+            "tags": []
+        },
+        {
+            "prompt": "Guys on the Titanic pumped for bro time now that the women and children are gone",
+            "tags": []
+        },
+        {
+            "prompt": "Shoveling snow in a snowglobe",
+            "tags": []
+        },
+        {
+            "prompt": "Going too hard with a massage gun",
+            "tags": []
+        },
+        {
+            "prompt": "5 sneezes: Each a little worse than the one before",
+            "tags": []
+        },
+        {
+            "prompt": "Wanda (The daughter Dave Thomas didn't name a restaurant after)",
+            "tags": []
+        },
+        {
+            "prompt": "A wedding's worst man speech",
+            "tags": []
+        },
+        {
+            "prompt": "The moment right before buying a fedora",
+            "tags": []
+        },
+        {
+            "prompt": "An architectural digest tour of Kimia's mind",
+            "tags": []
+        },
+        {
+            "prompt": "A skateboarder using a bunch of skateboarding lingo recollects his gnarliest move",
+            "tags": []
+        },
+        {
+            "prompt": "A one-star review of the sun",
+            "tags": []
+        },
+        {
+            "prompt": "A teenage kangaroo won't leave the pouch",
+            "tags": []
+        },
+        {
+            "prompt": "How not to survive a bear encounter",
+            "tags": []
+        },
+        {
+            "prompt": "A couple of boring-ass white people from work",
+            "tags": []
+        },
+        {
+            "prompt": "Stoner characters written by someone who's never done drugs",
+            "tags": []
+        },
+        {
+            "prompt": "An insane reaction to the barber showing you the back of your head",
+            "tags": []
+        },
+        {
+            "prompt": "An uncle taking a real shot in the dark with this birthday present",
+            "tags": []
+        },
+        {
+            "prompt": "Friends who have all been bitten by zombies try to hide it",
+            "tags": []
+        },
+        {
+            "prompt": "A quirky educational theater troupe gives you some tough love",
+            "tags": []
+        },
+        {
+            "prompt": "One of these haunted house sounds doesn't belong",
+            "tags": []
+        },
+        {
+            "prompt": "An applicant shoehorns adversity into his college interview",
+            "tags": []
+        },
+        {
+            "prompt": "Just the longest explanation of a Halloween costume",
+            "tags": []
+        },
+        {
+            "prompt": "A huckster pitches a get-rich-slow scheme",
+            "tags": []
+        },
+        {
+            "prompt": "Gangster Drew Carey wants a word with Sam Reich about 'Make Some Noise'",
+            "tags": []
+        },
+        {
+            "prompt": "Whispered commentary on every trailer before the movie",
+            "tags": []
+        },
+        {
+            "prompt": "A 'weird guy' inspection checkpoint",
+            "tags": []
+        },
+        {
+            "prompt": "Your girlfriend's grandma thinks of herself as your grand-girlfriend",
+            "tags": []
+        },
+        {
+            "prompt": "A stand-up and a heckler have surprising chemistry",
+            "tags": []
+        },
+        {
+            "prompt": "The final transmission to base camp from the failed expedition up Mountain Dew",
+            "tags": []
+        },
+        {
+            "prompt": "Starting a bar fight over absolutely nothing",
+            "tags": []
+        },
+        {
+            "prompt": "Cheerleaders cheer a eulogy for their fallen classmate",
+            "tags": []
+        },
+        {
+            "prompt": "Trying to network in the mosh pit",
+            "tags": []
+        },
+        {
+            "prompt": "'Challengers' but for competitive eating",
+            "tags": []
+        },
+        {
+            "prompt": "The Founding Fathers dissuade Henry Poopfartbarf from signing the Declaration of Independence",
+            "tags": []
+        },
+        {
+            "prompt": "Ellen Degeneres in Jaws talking about how she got that scar",
+            "tags": []
+        },
+        {
+            "prompt": "Drew Barrymore casually asking the ghosts in her house to leave",
+            "tags": []
+        },
+        {
+            "prompt": "Seth Rogen hosting cosmos",
+            "tags": []
+        },
+        {
+            "prompt": "Maybe Sarah SIlverman was a bad choice to hype up this cavalry",
+            "tags": []
+        },
+        {
+            "prompt": "Emma Stone hazes new pledges at a fraternity",
+            "tags": []
+        },
+        {
+            "prompt": "Nick Offerman directing all the animals onto Noah's arc",
+            "tags": []
+        },
+        {
+            "prompt": "Anna Faris as Dorothy in The Wizard of Oz",
+            "tags": []
+        },
+        {
+            "prompt": "Meryl Streep sells vacuums door to door",
+            "tags": []
+        },
+        {
+            "prompt": "Jimmy Kimmel the court jester is definitely going to be beheaded by the king after this set",
+            "tags": []
+        },
+        {
+            "prompt": "Lisa Simpson accuses you of cheating at Monopoly",
+            "tags": []
+        },
+        {
+            "prompt": "Jennifer Coolidge the air traffic controller",
+            "tags": []
+        },
+        {
+            "prompt": "Don Draper pitching Trix are for kids",
+            "tags": []
+        },
+        {
+            "prompt": "Two of the girls from Euphoria selling you Girl Scout cookies",
+            "tags": []
+        },
+        {
+            "prompt": "Fred Armisen and Kristen Wiig are the newest additions to the Marvel Cinematic Universe",
+            "tags": []
+        },
+        {
+            "prompt": "A meet-cute where what they ran into each other and dropped is actually important and should be the focus of their attention",
+            "tags": []
+        },
+        {
+            "prompt": "A scene from the British drama, This Airbnb Sure Has a Lot of Cutting Boards",
+            "tags": []
+        },
+        {
+            "prompt": "George Lopez and Phoebe Waller-Bridge are your new hosts of Good Morning America",
+            "tags": []
+        },
+        {
+            "prompt": "Vince Vaughn and Zooey Deschanel's chemistry read for A Marriage Story",
+            "tags": []
+        },
+        {
+            "prompt": "Things yelled from a dugout by baseball players who don't know anything about baseball",
+            "tags": []
+        },
+        {
+            "prompt": "A Shark Tank presentation where the presenters all have food poisoning from their own product",
+            "tags": []
+        },
+        {
+            "prompt": "Three aging camp counselors trying to squeeze all of the slang they can into their welcome back spiel",
+            "tags": []
+        },
+        {
+            "prompt": "Three Gilbert Gottfrieds at Gilbert Gottfried-Palooza",
+            "tags": []
+        },
+        {
+            "prompt": "An inflatable tube man just loves being so full of air / An inflatable tube man is 50/50 about being half-full of air / An inflatable tube man just hates being so out of air",
+            "tags": []
+        },
+        {
+            "prompt": "A Mario party planner",
+            "tags": []
+        },
+        {
+            "prompt": "RuPaul calls Groundhog's Day like it's the end of Drag Race",
+            "tags": []
+        },
+        {
+            "prompt": "Walton Goggins does not want to replace your father, but he will be marrying your mother (Fill-in-the-Blank Prompt)",
+            "tags": []
+        },
+        {
+            "prompt": "Trevor from math class's way-too-elaborate promposal",
+            "tags": []
+        },
+        {
+            "prompt": "A lady in the streets, a control freak in the sheets",
+            "tags": []
+        },
+        {
+            "prompt": "The two astronauts on month 9 of being stuck up there",
+            "tags": []
+        },
+        {
+            "prompt": "Theater kids' friendship vow before checking the cast list",
+            "tags": []
+        },
+        {
+            "prompt": "A judgmental self-checkout machine",
+            "tags": []
+        },
+        {
+            "prompt": "Enemies to friends to lovers to podcast co-hosts",
+            "tags": []
+        },
+        {
+            "prompt": "A couple who clearly got into a fight right before their karaoke duet",
+            "tags": []
+        },
+        {
+            "prompt": "God interviews a potential replacement",
+            "tags": []
+        },
+        {
+            "prompt": "Hooters but for feet",
+            "tags": []
+        },
+        {
+            "prompt": "The guys on the crosses next to Jesus realize he's a celebrity",
+            "tags": []
+        },
+        {
+            "prompt": "A YA novelist writing and rewriting the scene where the characters are about to kiss",
+            "tags": []
+        },
+        {
+            "prompt": "Five 'You call that a punch?'-es each less convincing than the last",
+            "tags": []
+        },
+        {
+            "prompt": "Kendrick and Drake's couples therapist",
+            "tags": []
+        },
+        {
+            "prompt": "A stoned chef is clearly making up today's specials on the fly",
+            "tags": []
+        },
+        {
+            "prompt": "Someone breaking bad news to a loved one on the phone while a street vendor fucks up their crepe order (Gift Prompt from Brennan Lee Mulligan)",
+            "tags": []
+        },
+        {
+            "prompt": "Jack Skellington stumbles into Pi Day Town",
+            "tags": []
+        },
+        {
+            "prompt": "A holy book alternates between insightful moral advice and seriously fucked up shit",
+            "tags": []
+        },
+        {
+            "prompt": "An insurance assessment for a Molotov cocktail bar",
+            "tags": []
+        },
+        {
+            "prompt": "It becomes increasingly clear this rock song is Christian",
+            "tags": []
+        },
+        {
+            "prompt": "It's the apocalypse! Better use what's left on this Target gift card",
+            "tags": []
+        },
+        {
+            "prompt": "Two bad boys fight over the cool last words before the commercial break",
+            "tags": []
+        },
+        {
+            "prompt": "Huh: This porno has some genuinely solid life lessons",
+            "tags": []
+        },
+        {
+            "prompt": "A doctor tells a patient what will happen once they're under anesthesia",
+            "tags": []
+        },
+        {
+            "prompt": "The wedding officiant has clearly hooked up with the bride and groom",
+            "tags": []
+        },
+        {
+            "prompt": "A human transported to a magic realm thinks they stumbled upon a stupid ren faire",
+            "tags": []
+        },
+        {
+            "prompt": "The Beastie Boys auction off a rare painting",
+            "tags": []
+        },
+        {
+            "prompt": "Hamlet can't even decide what to order at the Cheesecake Factory",
+            "tags": []
+        },
+        {
+            "prompt": "Tall, dark, and handsaws for hands",
+            "tags": []
+        },
+        {
+            "prompt": "A gate attendant is fucking desperate for volunteers to check the bags",
+            "tags": []
+        },
+        {
+            "prompt": "A sea shanty about the one guy on the boat who won't stop doing bits",
+            "tags": []
+        },
+        {
+            "prompt": "JB Smoove pitches Echo prompts he should do on 'Make Some Noise'",
+            "tags": []
+        },
+        {
+            "prompt": "An orphan playing hard-to-adopt",
+            "tags": []
+        },
+        {
+            "prompt": "Ross and Echo tell Sam what it's like to be tall",
+            "tags": []
+        },
+        {
+            "prompt": "What your parents think happens if you download a movie illegally",
+            "tags": []
+        },
+        {
+            "prompt": "Flirting your way out of a manslaughter charge",
+            "tags": []
+        },
+        {
+            "prompt": "Professor Moriarty explains to a shocked Sherlock Holmes how he was able to afford a house",
+            "tags": []
+        },
+        {
+            "prompt": "'Is It Cake?' is really tearing this couple apart",
+            "tags": []
+        },
+        {
+            "prompt": "An improv teacher and cult leader try to recruit each other",
+            "tags": []
+        },
+        {
+            "prompt": "One of these lab rats is clearly is getting the placebo",
+            "tags": []
+        },
+        {
+            "prompt": "The Disney-fied happy ending of 'Titanic' where the boat doesn't sink",
+            "tags": []
+        },
+        {
+            "prompt": "Dying and finding out Norse mythology was the correct one",
+            "tags": []
+        },
+        {
+            "prompt": "A lounge singer's patter before a royalty free song",
+            "tags": []
+        },
+        {
+            "prompt": "A best man speed in which the subtext is that he and the groom were abducted by aliens",
+            "tags": []
+        },
+        {
+            "prompt": "Slowly turning into an Animal Crossing character",
+            "tags": []
+        },
+        {
+            "prompt": "A confederate soldier's letter home in which he's subtly trying to start a sexting thing",
+            "tags": []
+        },
+        {
+            "prompt": "A referee calling party fouls",
+            "tags": []
+        },
+        {
+            "prompt": "Your annoyingly complicated Starbucks secret menu order",
+            "tags": []
+        },
+        {
+            "prompt": "An ad for a new McDonald's sandwich, The Macbeth",
+            "tags": []
+        },
+        {
+            "prompt": "The TV premiere of an R-rated movie in which the curses have been replaced by weird words",
+            "tags": []
+        },
+        {
+            "prompt": "One of those beekeeper TikTok narrations but they got stung a lot of times",
+            "tags": []
+        },
+        {
+            "prompt": "Shakespeare's Dude, Where's My Car?",
+            "tags": []
+        },
+        {
+            "prompt": "A kernel of popcorn gives its unpopped child the talk",
+            "tags": []
+        },
+        {
+            "prompt": "One of these two is definitely wearing a wire",
+            "tags": []
+        },
+        {
+            "prompt": "Two Kraken trainers at Sea World show off their work with the Krakens",
+            "tags": []
+        },
+        {
+            "prompt": "Two athletes in a decathlon having just finished the marathon portion and beginning the hot dog eating portion",
+            "tags": []
+        },
+        {
+            "prompt": "Two of those people who always make conversation on planes",
+            "tags": []
+        },
+        {
+            "prompt": "A rendition of Row Row Row Your Boat in which the third singer is clearly trying to amp things up a bit",
+            "tags": []
+        },
+        {
+            "prompt": "Throuple's therapy",
+            "tags": []
+        },
+        {
+            "prompt": "An improv group has a bunch of stipulations for the one word suggestion",
+            "tags": []
+        },
+        {
+            "prompt": "A backwoods moonshine sommelier",
+            "tags": []
+        },
+        {
+            "prompt": "A Beastie Boy overdubbing just the last words in rap stanzas",
+            "tags": []
+        },
+        {
+            "prompt": "A dinner guest hams up loving food they hate",
+            "tags": []
+        },
+        {
+            "prompt": "Explaining the rules to the board game 'Capitalism'",
+            "tags": []
+        },
+        {
+            "prompt": "David Attenborough fucking hates toads",
+            "tags": []
+        },
+        {
+            "prompt": "A Mario Kart mechanic",
+            "tags": []
+        },
+        {
+            "prompt": "The problem player at every D&D table",
+            "tags": []
+        },
+        {
+            "prompt": "Just a complicated country lawyer",
+            "tags": []
+        },
+        {
+            "prompt": "An LA tour guide won't shut up about his other home town",
+            "tags": []
+        },
+        {
+            "prompt": "Shakespeare's 'Two Gentlemen of Coronavirus'",
+            "tags": []
+        },
+        {
+            "prompt": "A smart toothbrush is too smart",
+            "tags": []
+        },
+        {
+            "prompt": "Convincing the HR guy to come back for one last heist",
+            "tags": []
+        },
+        {
+            "prompt": "Brennan & Ross can't repeat an accent for more than one line",
+            "tags": []
+        },
+        {
+            "prompt": "A cinephile keeps interrupting the movie to inform his seat neighbor of trivia",
+            "tags": []
+        },
+        {
+            "prompt": "Grave robbers digging for an epic graphic tee",
+            "tags": []
+        },
+        {
+            "prompt": "The signing of The Declaration of Co-Dependance",
+            "tags": []
+        },
+        {
+            "prompt": "One guard always lies & one guard always tells the truth",
+            "tags": []
+        },
+        {
+            "prompt": "A heroic Snickers snags in the vending machine- refusing to let his brothers above him fall",
+            "tags": []
+        },
+        {
+            "prompt": "A #Boyboss",
+            "tags": []
+        },
+        {
+            "prompt": "A haunted house actor terrifies you with details about the job",
+            "tags": []
+        },
+        {
+            "prompt": "Your period the day before a tropical vacation",
+            "tags": []
+        },
+        {
+            "prompt": "The covid compliance officer's spiel on a porn set",
+            "tags": []
+        },
+        {
+            "prompt": "Ms. Frizzle Drafting a field trip permission slip",
+            "tags": []
+        },
+        {
+            "prompt": "A medication ad where the announcer experiences the side effects as they're read aloud",
+            "tags": []
+        },
+        {
+            "prompt": "An ant giving another ant directions through the ant farm",
+            "tags": []
+        },
+        {
+            "prompt": "Sober you discusses last night's receipts with drunk you",
+            "tags": []
+        },
+        {
+            "prompt": "Wood Cop/Ventriloquist Cop",
+            "tags": []
+        },
+        {
+            "prompt": "A recently divorced couple still has to do that TED talk",
+            "tags": []
+        },
+        {
+            "prompt": "Listing 50 states while trying to trip each other up",
+            "tags": []
+        },
+        {
+            "prompt": "'Speed' but a paralegal can't type less than 50 WPM",
+            "tags": []
+        },
+        {
+            "prompt": "Prestige Dog TV",
+            "tags": []
+        },
+        {
+            "prompt": "A dad at a press conference after doing the bare minimum",
+            "tags": []
+        },
+        {
+            "prompt": "The worst time for an alien to burst out of your chest",
+            "tags": []
+        },
+        {
+            "prompt": "The losing knight gives a post joust press conference",
+            "tags": []
+        },
+        {
+            "prompt": "Subaru decides to just go ahead and market to lesbians",
+            "tags": []
+        },
+        {
+            "prompt": "A deeply personal trainer",
+            "tags": []
+        },
+        {
+            "prompt": "An emcee's nicknames for the next performer just keep on going",
+            "tags": []
+        },
+        {
+            "prompt": "A white girl explaining the significance of her tattoo",
+            "tags": []
+        },
+        {
+            "prompt": "Marvel's newest superhero, 'Mr. Steal Your Girl'",
+            "tags": []
+        },
+        {
+            "prompt": "The black version of 'Romeo & Juliet'",
+            "tags": []
+        },
+        {
+            "prompt": "Two TSA agents on a power trip",
+            "tags": []
+        },
+        {
+            "prompt": "A corner man passionately convinces a boxer to just give up",
+            "tags": []
+        },
+        {
+            "prompt": "Mary explains to Joseph her immaculate conception",
+            "tags": []
+        },
+        {
+            "prompt": "The chemistry in this Tide commercial is off the charts",
+            "tags": []
+        },
+        {
+            "prompt": "A very serious 'Star Wars' scene with lots and lots of names and places",
+            "tags": []
+        },
+        {
+            "prompt": "A football team uses the huddle to plan the coach's surprise party",
+            "tags": []
+        },
+        {
+            "prompt": "A recording artist and their background singers are clearly beefing",
+            "tags": []
+        },
+        {
+            "prompt": "Friday, Saturday and Sunday debate their respective merits",
+            "tags": []
+        },
+        {
+            "prompt": "How every yo-yo-er fantasizes the world will one day depend on their skillset",
+            "tags": []
+        },
+        {
+            "prompt": "A pre-show theater announcement where they might be taking the audience hostage",
+            "tags": []
+        },
+        {
+            "prompt": "The Down With the Sickness ooh wa ah ah ah guy's alts",
+            "tags": []
+        },
+        {
+            "prompt": "The last will and testament of the founder of Spencer's Gifts",
+            "tags": []
+        },
+        {
+            "prompt": "If the Harry Potter sorting hat were a mean girl",
+            "tags": []
+        },
+        {
+            "prompt": "An ad for Taco Bell's new Laxative Supreme",
+            "tags": []
+        },
+        {
+            "prompt": "A genie's other stipulations",
+            "tags": []
+        },
+        {
+            "prompt": "The cut Plunger's Song from Beauty & the Beast",
+            "tags": []
+        },
+        {
+            "prompt": "The more tools a surgeon asks for the clearer it is they're winging it",
+            "tags": []
+        },
+        {
+            "prompt": "The activities team for a cruise that's just sailed into the River Styx",
+            "tags": []
+        },
+        {
+            "prompt": "The exorcist but they hired a magician instead of a priest",
+            "tags": []
+        },
+        {
+            "prompt": "Two sperm trying to stay casual about competing for the egg",
+            "tags": []
+        },
+        {
+            "prompt": "A scene from David Mamet's workplace drama Build a Bear-y Glenn Ross",
+            "tags": []
+        },
+        {
+            "prompt": "Good Cop/Rad Cop",
+            "tags": []
+        },
+        {
+            "prompt": "A billionaire and his little piss boy translator",
+            "tags": []
+        },
+        {
+            "prompt": "The Evolution of Man diagram",
+            "tags": []
+        },
+        {
+            "prompt": "Christmas elves strike chants",
+            "tags": []
+        },
+        {
+            "prompt": "A video game NPC's annoying side quest",
+            "tags": []
+        },
+        {
+            "prompt": "An opera singer hits a note so high they cum",
+            "tags": []
+        },
+        {
+            "prompt": "A 1930's femme fatale hiring a PI to investigate the death of their husband (who definitely murdered their husband)",
+            "tags": []
+        },
+        {
+            "prompt": "A superhero suit-up montage",
+            "tags": []
+        },
+        {
+            "prompt": "A morning zoo host forgets what the buttons on his soundboard do",
+            "tags": []
+        },
+        {
+            "prompt": "Vic's press secretary discussing their agenda",
+            "tags": []
+        },
+        {
+            "prompt": "An echo that mocks you a little bit",
+            "tags": []
+        },
+        {
+            "prompt": "A conversation with your Uber driver gets real deep real fast",
+            "tags": []
+        },
+        {
+            "prompt": "Maybe it wasn't the best idea to break up in massage chairs",
+            "tags": []
+        },
+        {
+            "prompt": "Foley artists for the movie A Bathtub Falls Through Ten Floors of a Rotting House",
+            "tags": []
+        },
+        {
+            "prompt": "Turns out the hostage negotiator knows the hostage taker from way back",
+            "tags": []
+        },
+        {
+            "prompt": "A documentarian who's bad at asking relevant follow-up questions",
+            "tags": []
+        },
+        {
+            "prompt": "What kids think happens in the teachers lounge",
+            "tags": []
+        },
+        {
+            "prompt": "One of those bowling animations",
+            "tags": []
+        },
+        {
+            "prompt": "A home remodeling show in which they've just put giant boulders in every room",
+            "tags": []
+        },
+        {
+            "prompt": "A Mini-van to Long Island mom transformer",
+            "tags": []
+        },
+        {
+            "prompt": "Someone who keeps trying and failing to start chants in the middle of the speech",
+            "tags": []
+        },
+        {
+            "prompt": "A grizzled war vet recounts a Black Friday sale event",
+            "tags": []
+        },
+        {
+            "prompt": "A voice-disguised witness in a true crime doc accidentally reveals exactly who they are",
+            "tags": []
+        },
+        {
+            "prompt": "A scientist describing how the world is going to end only using the contents of a bark box",
+            "tags": []
+        },
+        {
+            "prompt": "The moment in the show where the lore goes so deep they lose you",
+            "tags": []
+        },
+        {
+            "prompt": "Owen Wilson and his magic mirror",
+            "tags": []
+        },
+        {
+            "prompt": "The long awaited meeting between Times New Roman and Comic Sans",
+            "tags": []
+        },
+        {
+            "prompt": "A child brings a magical snowman to life who is very concerned about dying again",
+            "tags": []
+        },
+        {
+            "prompt": "Two astronauts compete for the quote that will go down in history",
+            "tags": []
+        },
+        {
+            "prompt": "A time traveler trying to figure out what year it is without drawing too much attention to themselves",
+            "tags": []
+        },
+        {
+            "prompt": "Thomas Jefferson getting notes from his Hollywood agent on the Declaration Of Independence",
+            "tags": []
+        },
+        {
+            "prompt": "Braggadocious cavemen tool-dropping",
+            "tags": []
+        },
+        {
+            "prompt": "Messages on Sam's answering machine",
+            "tags": []
+        },
+        {
+            "prompt": "Two sides of a pistachio shell fighting being pulled apart to protect the pistachio",
+            "tags": []
+        },
+        {
+            "prompt": "Godzilla vs. King Kong vs. Josh Ruben",
+            "tags": []
+        },
+        {
+            "prompt": "A spelling bee contestant will be assassinated the moment they miss a letter",
+            "tags": []
+        },
+        {
+            "prompt": "A political ad to persuade one specific voter",
+            "tags": []
+        },
+        {
+            "prompt": "Robin Williams is doing a coffee commercial where at the end of each take he takes a big sip of coffee and it makes him more and more caffeinated as the takes go on",
+            "tags": []
+        },
+        {
+            "prompt": "A flair bartender makes you... Oh, just a club soda",
+            "tags": []
+        },
+        {
+            "prompt": "A small town sheriff chalks up clear signs of an alien invasion to silly teens",
+            "tags": []
+        },
+        {
+            "prompt": "Logging in with 30-factor authentication",
+            "tags": []
+        },
+        {
+            "prompt": "Exploring every branch of dialogue with a video game NPC",
+            "tags": []
+        },
+        {
+            "prompt": "Statler and Waldorf are one box over from Abe Lincoln",
+            "tags": []
+        },
+        {
+            "prompt": "Two men who don't want the other to see their bald spot",
+            "tags": []
+        },
+        {
+            "prompt": "A hero's time travel fixed everything... But he's no longer six feet tall",
+            "tags": []
+        },
+        {
+            "prompt": "One of these lines is definitely the name of the movie",
+            "tags": []
+        },
+        {
+            "prompt": "New Oreo flavors",
+            "tags": []
+        },
+        {
+            "prompt": "Nosferatu, Count Chocula and Edward from 'Twilight'",
+            "tags": []
+        },
+        {
+            "prompt": "The Three Wise Men realize they all got Jesus the same gift",
+            "tags": []
+        },
+        {
+            "prompt": "Marilyn Monroe's even more sexually explicit 'happy birthday'",
+            "tags": []
+        },
+        {
+            "prompt": "A sub DM",
+            "tags": []
+        },
+        {
+            "prompt": "An NPC's five different reactions to you entering their shop depending on how leveled up you are",
+            "tags": []
+        },
+        {
+            "prompt": "The one toxic person in every improv 101 class",
+            "tags": []
+        },
+        {
+            "prompt": "A video game character keeps switching between lore and the tutorial",
+            "tags": []
+        },
+        {
+            "prompt": "Scrooge learns the true meaning of bisexual awareness week",
+            "tags": []
+        },
+        {
+            "prompt": "A mother-son wedding dance has a little too much chemistry",
+            "tags": []
+        },
+        {
+            "prompt": "The knights of the beer pong table",
+            "tags": []
+        },
+        {
+            "prompt": "Every job interview with a nanny in a horror movie",
+            "tags": []
+        },
+        {
+            "prompt": "George R.R. Martin's publisher asks for a 'Winds of Winter' status report",
+            "tags": []
+        },
+        {
+            "prompt": "The prosecution and defense in the case of Goldilocks V. Bears",
+            "tags": []
+        },
+        {
+            "prompt": "Two 'witchy' actual witches",
+            "tags": []
+        },
+        {
+            "prompt": "The Hobbit Research and Development Committee presents: Even more meal ideas",
+            "tags": []
+        },
+        {
+            "prompt": "One guard always lies and the other guard always wants to talk about their music",
+            "tags": []
+        },
+        {
+            "prompt": "We returned from Narnia but it turned one of us republican",
+            "tags": []
+        },
+        {
+            "prompt": "Coach just doesn't have a very inspiring voice",
+            "tags": []
+        },
+        {
+            "prompt": "A wildlife PSA from the 'hawk tuah' girl",
+            "tags": []
+        },
+        {
+            "prompt": "What you're really doing when you send an 'I'm on my way' text",
+            "tags": []
+        },
+        {
+            "prompt": "A mob wife has a word with her son's bully",
+            "tags": []
+        },
+        {
+            "prompt": "A romance novelist reads aloud as she types out her 40th book, 'The Werewolf Who Could Unfasten My Bra One Pawed'. In her career, she has never once used the same synonym for penis twice, and she's not about to start now",
+            "tags": []
+        },
+        {
+            "prompt": "Miss Piggy's audition for 'Euphoria'",
+            "tags": []
+        },
+        {
+            "prompt": "The contrast between a public story and a 'Close Friends' story",
+            "tags": []
+        },
+        {
+            "prompt": "Bridezilla vs. Mechabridezilla",
+            "tags": []
+        },
+        {
+            "prompt": "Teaching Nana how to surf the dark web",
+            "tags": []
+        },
+        {
+            "prompt": "The Virgin Mary on the 'Who's Your Daddy?' podcast",
+            "tags": []
+        },
+        {
+            "prompt": "An OBGYN preps a mother-to-be in a world where babies shoot out like a cannonball",
+            "tags": []
+        },
+        {
+            "prompt": "Showing up to a job interview in one of those overly-personalized t-shirts that says 'Never mess with a middle sister from Wisconsin who is a Cancer/Leo cusp, can hold a plank for 2 minutes, and owns 2 crossbows'",
+            "tags": []
+        },
+        {
+            "prompt": "Three gorgons hype each other up in the bar bathroom",
+            "tags": []
+        },
+        {
+            "prompt": "Doomscroll-y, Hyperfixated, and Touch-Starved are added to the cast of 'Inside Out 3'",
+            "tags": []
+        },
+        {
+            "prompt": "Titles for Sam Reich's memoir",
+            "tags": []
+        },
+        {
+            "prompt": "Wayyyy too sick to be on 'The Bachelor' right now (Gift Prompt from Ally Beardsley)",
+            "tags": []
+        },
+        {
+            "prompt": "Your Peloton instructor is keeping you motivated with blackmail",
+            "tags": []
+        },
+        {
+            "prompt": "Deep in the pleasure of a scalp massage",
+            "tags": []
+        },
+        {
+            "prompt": "Just the worst explanation of daylight savings",
+            "tags": []
+        },
+        {
+            "prompt": "The speech MLK really wanted to give instead of 'I Have A Dream'",
+            "tags": []
+        },
+        {
+            "prompt": "Announcing tonight's performance of 'Hamilton' has been canceled",
+            "tags": []
+        },
+        {
+            "prompt": "A survivalist is a little too eager to drink their own piss",
+            "tags": []
+        },
+        {
+            "prompt": "A college tour that makes you second-guess coming here",
+            "tags": []
+        },
+        {
+            "prompt": "Good Cop/Dad Cop",
+            "tags": []
+        },
+        {
+            "prompt": "Fast & The Furious 67: Too Fast, Slow Down",
+            "tags": []
+        },
+        {
+            "prompt": "These 'Family Feud' rapid-fire answers are way off",
+            "tags": []
+        },
+        {
+            "prompt": "Bigfoot Zoom interviews for a job he thought was remote but turns out is in-office",
+            "tags": []
+        },
+        {
+            "prompt": "Two Oscar presenters feel snubbed for the award they're presenting",
+            "tags": []
+        },
+        {
+            "prompt": "A heist team realizes they all have the same specialty",
+            "tags": []
+        },
+        {
+            "prompt": "Three poker players with terrible tells",
+            "tags": []
+        },
+        {
+            "prompt": "In lieu of white noise: 'caucasian noise",
+            "tags": []
+        },
+        {
+            "prompt": "The one jew in Whoville",
+            "tags": []
+        },
+        {
+            "prompt": "A dom DM",
+            "tags": []
+        },
+        {
+            "prompt": "5 different types of VO death scream",
+            "tags": []
+        },
+        {
+            "prompt": "Why this version of 'Jurassic Park' is going to work",
+            "tags": []
+        },
+        {
+            "prompt": "Another lesser-known entrance to Narnia",
+            "tags": []
+        },
+        {
+            "prompt": "A voice you can't take seriously delivers a pivotal monologue",
+            "tags": []
+        },
+        {
+            "prompt": "The leader of a cult tries to return some robes",
+            "tags": []
+        },
+        {
+            "prompt": "Sauron but it's Donald Trump",
+            "tags": []
+        },
+        {
+            "prompt": "The Wicked Switch of the West",
+            "tags": []
+        },
+        {
+            "prompt": "A job interview with the same arc in quality as 'Game of Thrones'",
+            "tags": []
+        },
+        {
+            "prompt": "Good Cop/Dryad Cop",
+            "tags": []
+        },
+        {
+            "prompt": "Oedipus's mom grounds him for killing his dad",
+            "tags": []
+        },
+        {
+            "prompt": "It's unclear if your neighbors are swingers or cannibals",
+            "tags": []
+        },
+        {
+            "prompt": "Two nerdy teens trade bird cards",
+            "tags": []
+        },
+        {
+            "prompt": "A scene from George R. R. Martin's yet-to-be-adapted 'A Bucket of Piss & Shit'",
+            "tags": []
+        },
+        {
+            "prompt": "'The Great Gnomish Baking Show'",
+            "tags": []
+        },
+        {
+            "prompt": "Senior superlatives for your fellow cast",
+            "tags": []
+        },
+        {
+            "prompt": "Gods debating what to watch on Godflix",
+            "tags": []
+        },
+        {
+            "prompt": "Someone casually trying to sneak all the state birds they know into conversation",
+            "tags": []
+        },
+        {
+            "prompt": "A dog show announcer who's clearly sexually attracted to one of the breeds",
+            "tags": []
+        },
+        {
+            "prompt": "The kid you're babysitting doesn't want you to see what happened in the other room",
+            "tags": []
+        },
+        {
+            "prompt": "Things Jimmy Stewart would give Mary in addition to the moon",
+            "tags": []
+        },
+        {
+            "prompt": "Your friend's mom who was nice to you but mean to your friend in front of you",
+            "tags": []
+        },
+        {
+            "prompt": "Someone currently being burned ASMR",
+            "tags": []
+        },
+        {
+            "prompt": "Two big mouth bass programmed to read each other",
+            "tags": []
+        },
+        {
+            "prompt": "Mummies in the heat of the moment unravelling each other's clothes",
+            "tags": []
+        },
+        {
+            "prompt": "A palm reader trying to sugar coat very bad news",
+            "tags": []
+        },
+        {
+            "prompt": "The guy from operation trying to hook up with someone",
+            "tags": []
+        },
+        {
+            "prompt": "Evil lunch ladies hint at what's in the Sloppy Joes",
+            "tags": []
+        },
+        {
+            "prompt": "Downtown Abbey sisters debate who shat in the hallway",
+            "tags": []
+        },
+        {
+            "prompt": "A CPR video in which they keep accusing the viewer of being a pervert",
+            "tags": []
+        },
+        {
+            "prompt": "Izzy, Allie, and Erin argue about who would actually win on Survivor",
+            "tags": []
+        },
+        {
+            "prompt": "Construction workers catcall passerby with their deep-down emotional needs",
+            "tags": []
+        },
+        {
+            "prompt": "Counting down as the anesthesia kicks in",
+            "tags": []
+        },
+        {
+            "prompt": "A contentious note to the whole apartment building",
+            "tags": []
+        },
+        {
+            "prompt": "An old-timey phonograph",
+            "tags": []
+        },
+        {
+            "prompt": "A bouncer on Noah's Ark",
+            "tags": []
+        },
+        {
+            "prompt": "Thinking every restaurant has a secret menu",
+            "tags": []
+        },
+        {
+            "prompt": "A 'Chef's Table' chef describes their pretentious dish",
+            "tags": []
+        },
+        {
+            "prompt": "The most annoying person on the lifeboat",
+            "tags": []
+        },
+        {
+            "prompt": "A witness on the local news wants you to know she can do Tae Kwon Do",
+            "tags": []
+        },
+        {
+            "prompt": "That one friend who takes karaoke too seriously",
+            "tags": []
+        },
+        {
+            "prompt": "Two firefighters with wildly different approaches",
+            "tags": []
+        },
+        {
+            "prompt": "Abstinence-only youth group leaders who have definitely had sex with each other",
+            "tags": []
+        },
+        {
+            "prompt": "A finance bro in a British period romance",
+            "tags": []
+        },
+        {
+            "prompt": "Cops doing forensics after an 'oops all berries' incident at the cereal factory",
+            "tags": []
+        },
+        {
+            "prompt": "Toxic cheer coaches give a 'pep talk'",
+            "tags": []
+        },
+        {
+            "prompt": "A hardboiled detective and femme fatale decide what to watch on Netflix",
+            "tags": []
+        },
+        {
+            "prompt": "A 1930s movie musical in which they dubbed over the singing",
+            "tags": []
+        },
+        {
+            "prompt": "The president's war room decides what to order for dinner",
+            "tags": []
+        },
+        {
+            "prompt": "Daily Planet coworkers won't let Clark Kent leave during a disaster",
+            "tags": []
+        },
+        {
+            "prompt": "A pirate eats a throat lozenge for the first time",
+            "tags": []
+        },
+        {
+            "prompt": "A boyfriend won't admit he's invested in this 'Housewives' storyline",
+            "tags": []
+        },
+        {
+            "prompt": "An Oscar bait monologue with a bit of branded content in it",
+            "tags": []
+        },
+        {
+            "prompt": "The early bird is a real dick about it",
+            "tags": []
+        },
+        {
+            "prompt": "A siren who refuses to admit she's past her sailor luring days",
+            "tags": []
+        },
+        {
+            "prompt": "Shirley Temple is fucking serious about her rider",
+            "tags": []
+        },
+        {
+            "prompt": "Two people who need to poop try to politely speed up the conversation",
+            "tags": []
+        },
+        {
+            "prompt": "Hiding your disappointment that someone didn't get Thanos snapped",
+            "tags": []
+        },
+        {
+            "prompt": "A TSA agent goes through a magician's luggage",
+            "tags": []
+        },
+        {
+            "prompt": "This guy thought getting pegged meant something else entirely",
+            "tags": []
+        },
+        {
+            "prompt": "The reunion of two high school friends whose M.A.S.H.'s came true",
+            "tags": []
+        },
+        {
+            "prompt": "This dream is too messed up even for Freddy Krueger",
+            "tags": []
+        },
+        {
+            "prompt": "Two teens and the ghost controlling their Ouija board",
+            "tags": []
+        },
+        {
+            "prompt": "A helicopter rescue for hikers who are simply over it",
+            "tags": []
+        },
+        {
+            "prompt": "Hungry Hungry Hippos Anonymous",
+            "tags": []
+        },
+        {
+            "prompt": "Three people getting stuck in a waterslide one-by-one",
+            "tags": []
+        },
+        {
+            "prompt": "A business cat is distracted by their own laser pointer",
+            "tags": []
+        },
+        {
+            "prompt": "An election touchscreen guy on the group chat's decision where to go to dinner",
+            "tags": []
+        },
+        {
+            "prompt": "Hurriedly dropping your horror movie child off at daycare",
+            "tags": []
+        },
+        {
+            "prompt": "Just an honest-to-goodness attempt at reciting The Gettysburg Address",
+            "tags": []
+        },
+        {
+            "prompt": "A judge 'compliment sandwiches' the defendant during sentencing",
+            "tags": []
+        },
+        {
+            "prompt": "A scene from the British period drama 'Nothing Ever Happens'",
+            "tags": []
+        },
+        {
+            "prompt": "Two 'wife guys' try to out 'wife guy' each other",
+            "tags": []
+        },
+        {
+            "prompt": "Two dog agility show announcers cover the worst go in history",
+            "tags": []
+        },
+        {
+            "prompt": "A portrait painter poses a model so they don't have to paint the 'hard parts'",
+            "tags": []
+        },
+        {
+            "prompt": "A man with the longest Powerball ticket of all time gets more and more excited as the numbers are read aloud",
+            "tags": []
+        },
+        {
+            "prompt": "A grizzled detective's flashback to happier days with his then-alive wife",
+            "tags": []
+        },
+        {
+            "prompt": "A matchmaker breaks the news that their client is unmatchable",
+            "tags": []
+        },
+        {
+            "prompt": "Our three players all attempt to 'straight man' each other",
+            "tags": []
+        },
+        {
+            "prompt": "Three blurbs on the back of the book 'How To Give A Book Blurb'",
+            "tags": []
+        },
+        {
+            "prompt": "A boy going through puberty in 15 seconds",
+            "tags": []
+        },
+        {
+            "prompt": "A chef getting ratatouille'd by a normal rat",
+            "tags": []
+        },
+        {
+            "prompt": "Elvish Presley",
+            "tags": []
+        },
+        {
+            "prompt": "Randy Newman's theme song for 'Toy Story 74'",
+            "tags": []
+        },
+        {
+            "prompt": "Asking for samples at 'World's Worst Ice Cream'",
+            "tags": []
+        },
+        {
+            "prompt": "Saint Peter on the things you did that were weird but not sins",
+            "tags": []
+        },
+        {
+            "prompt": "7 of the cutest farts you've ever heard",
+            "tags": []
+        },
+        {
+            "prompt": "A lumberjack forgot his axe but insists he doesn't need it",
+            "tags": []
+        },
+        {
+            "prompt": "Brennan's real feelings about our loosey goosey point system",
+            "tags": []
+        },
+        {
+            "prompt": "Two clipboard people trying to get each other's signatures",
+            "tags": []
+        },
+        {
+            "prompt": "An inappropriate time to say 'shut up'",
+            "tags": []
+        },
+        {
+            "prompt": "This urinal whistling is a real bop",
+            "tags": []
+        },
+        {
+            "prompt": "Slimer tries to return a jacket to The Gap",
+            "tags": []
+        },
+        {
+            "prompt": "A nat 20 VS. nat 1 charisma check",
+            "tags": []
+        },
+        {
+            "prompt": "Two grizzled fishermen compare scar stories",
+            "tags": []
+        },
+        {
+            "prompt": "A clone, a clone of a clone & a clone of a clone of a clone",
+            "tags": []
+        },
+        {
+            "prompt": "The comments section if & when this hits Youtube",
+            "tags": []
+        },
+        {
+            "prompt": "A political debate is interrupted by a seagull attack",
+            "tags": []
+        },
+        {
+            "prompt": "Terrified but trying to look cool while skydiving",
+            "tags": []
+        },
+        {
+            "prompt": "An orgasmic Goaaaaal!",
+            "tags": []
+        },
+        {
+            "prompt": "Two birds in heated disagreement",
+            "tags": []
+        },
+        {
+            "prompt": "Doomsday device customer service hotline",
+            "tags": []
+        },
+        {
+            "prompt": "HAL 9000 apologizes for other things",
+            "tags": []
+        },
+        {
+            "prompt": "The lore-building video for a theme park ride",
+            "tags": []
+        },
+        {
+            "prompt": "An excuse for being three hours late two inches taller & a shade greener",
+            "tags": []
+        },
+        {
+            "prompt": "Joey Chestnut's stomach writing him an open letter",
+            "tags": []
+        },
+        {
+            "prompt": "Someone named 'Joshua Tree' every time he has to introduce himself",
+            "tags": []
+        },
+        {
+            "prompt": "Stage parents whispering direction from the audience",
+            "tags": []
+        },
+        {
+            "prompt": "Polite castaways debate who's going to eat each other",
+            "tags": []
+        },
+        {
+            "prompt": "Two two-kids-in-a-trenchcoat on a date",
+            "tags": []
+        },
+        {
+            "prompt": "Two car mechanics' long metaphor for what's wrong with your car",
+            "tags": []
+        },
+        {
+            "prompt": "The knights of the standing desk",
+            "tags": []
+        },
+        {
+            "prompt": "Scrappy orphans who always seem like they're about to burst into song",
+            "tags": []
+        },
+        {
+            "prompt": "Three active listeners struggle to make conversation",
+            "tags": []
+        },
+        {
+            "prompt": "The cast of a sitcom introduces a very special episode",
+            "tags": []
+        },
+        {
+            "prompt": "The subscription services you forgot to cancel toast the new year",
+            "tags": []
+        },
+        {
+            "prompt": "Almost performing and then asking for clarification on this prompt 5 times",
+            "tags": []
+        },
+        {
+            "prompt": "Jacob Wysocki's alter ego, Jacob Ice Hockey",
+            "tags": []
+        },
+        {
+            "prompt": "Five laughs, each a little wealthier than the last",
+            "tags": []
+        },
+        {
+            "prompt": "What's in the 'Elon Musk' at an NYC deli",
+            "tags": []
+        },
+        {
+            "prompt": "Tonight's DJ set: Prospector Bugaboo's Electric Jamboree",
+            "tags": []
+        },
+        {
+            "prompt": "Your problematic grandpa comes full circle on a single specific issue",
+            "tags": []
+        },
+        {
+            "prompt": "Two guys from Brooklyn's fight turned meet-cute",
+            "tags": []
+        },
+        {
+            "prompt": "Uber but on horseback",
+            "tags": []
+        },
+        {
+            "prompt": "An audiobook concludes, and the other guy who's there to say, 'This has been...' really goes for it",
+            "tags": []
+        },
+        {
+            "prompt": "The best and worst person to sit next to on an airplane",
+            "tags": []
+        },
+        {
+            "prompt": "What parents imagine happens to a bully when you say the 'sticks and stones' thing",
+            "tags": []
+        },
+        {
+            "prompt": "All of grandpa's stories somehow involve a guy named 'Chorizo Joe'",
+            "tags": []
+        },
+        {
+            "prompt": "A divorced dad tries to get the kids excited about his new houseboat",
+            "tags": []
+        },
+        {
+            "prompt": "An intimacy coordinator for two boxers about to fight",
+            "tags": []
+        },
+        {
+            "prompt": "This funeral home is run like a New York City deli",
+            "tags": []
+        },
+        {
+            "prompt": "Jack Nicholson's go-to Cold Stone Creamery order",
+            "tags": []
+        },
+        {
+            "prompt": "Miley Cyrus describes the new tattoo she wants",
+            "tags": []
+        },
+        {
+            "prompt": "Will Smith apologizes for *another* Oscar incident",
+            "tags": []
+        },
+        {
+            "prompt": "Jeff Bridges on all the ways he could kill you",
+            "tags": []
+        },
+        {
+            "prompt": "Olivia Coleman delivers your baby",
+            "tags": []
+        },
+        {
+            "prompt": "The Joker tells us how he got this tuna salad recipe",
+            "tags": []
+        },
+        {
+            "prompt": "What is Robin Williams even talking about",
+            "tags": []
+        },
+        {
+            "prompt": "Bj\u00f6rk's to-do list",
+            "tags": []
+        },
+        {
+            "prompt": "Evil Gollum & nice Gollum in marriage counseling",
+            "tags": []
+        },
+        {
+            "prompt": "Greta Thunberg & John Mulaney co-host a climate change telethon",
+            "tags": []
+        },
+        {
+            "prompt": "Two movie trailer announcers so excited they keep interrupting each other",
+            "tags": []
+        },
+        {
+            "prompt": "Will Ferrell & Zooey Deschanel in 'The Fast and the Quirkiest'",
+            "tags": []
+        },
+        {
+            "prompt": "Julie Andrews & Lin Manuel Miranda tear into a theater goer for not silencing their phone",
+            "tags": []
+        },
+        {
+            "prompt": "Two Liam Neesons kidnap each other's daughters",
+            "tags": []
+        },
+        {
+            "prompt": "Dorothy, The Scarecrow & Adam Driver",
+            "tags": []
+        },
+        {
+            "prompt": "Three Owen Wilsons in 'Into the Owen Wilson-verse'",
+            "tags": []
+        },
+        {
+            "prompt": "A rap battle's bars are actually good feedback you should take to heart",
+            "tags": []
+        },
+        {
+            "prompt": "Willy Wonka's lawyer's opening statement",
+            "tags": []
+        },
+        {
+            "prompt": "A tour guide who snuck one of his own paintings into the museum",
+            "tags": []
+        },
+        {
+            "prompt": "A 'measured take' on Freddy Krueger by the editorial board of The Washington Post",
+            "tags": []
+        },
+        {
+            "prompt": "This presidential acceptance speech is clearly a last-minute rewrite of their concession speech",
+            "tags": []
+        },
+        {
+            "prompt": "An Oscar bait monologue from 'Uno: The Movie'",
+            "tags": []
+        },
+        {
+            "prompt": "Both of these people are definitely wearing a wire",
+            "tags": []
+        },
+        {
+            "prompt": "Realizing an anecdote isn't at all appropriate for the 'Jeopardy' intro",
+            "tags": []
+        },
+        {
+            "prompt": "A father chess knight teaches its baby chess knight to take its first steps",
+            "tags": []
+        },
+        {
+            "prompt": "Rip Van Winkle explains the gap in his resume",
+            "tags": []
+        },
+        {
+            "prompt": "New Year's Eve TV hosts are not the 'fun' kind of drunks",
+            "tags": []
+        },
+        {
+            "prompt": "Letters between two 'historically close unmarries friends of the same sex'",
+            "tags": []
+        },
+        {
+            "prompt": "Three soldiers bored inside the trojan horse",
+            "tags": []
+        },
+        {
+            "prompt": "A German sitcom where hijinx is handled swiftly and pragmatically",
+            "tags": []
+        },
+        {
+            "prompt": "The three witches' spell uses only Trader Joe's products",
+            "tags": []
+        },
+        {
+            "prompt": "The saddest 'free' CraigsList post in history",
+            "tags": []
+        },
+        {
+            "prompt": "The person in front of you at the bank the one time all year you have to go inside",
+            "tags": []
+        },
+        {
+            "prompt": "A post-apocalyptic late night monologue",
+            "tags": []
+        },
+        {
+            "prompt": "A mocap 'Planet of the Apes' monkey self-tape",
+            "tags": []
+        },
+        {
+            "prompt": "The coroner's report has a whole section about how fun it was for him",
+            "tags": []
+        },
+        {
+            "prompt": "Really tiny David Lynch in the Criterion Closet",
+            "tags": []
+        },
+        {
+            "prompt": "'Mad Max: Fury Road' driver's ed",
+            "tags": []
+        },
+        {
+            "prompt": "A Chipotle employee is psyched about what's going on in your burrito bowl",
+            "tags": []
+        },
+        {
+            "prompt": "Co-workers are actually honest about how they spent their weekends",
+            "tags": []
+        },
+        {
+            "prompt": "'The Most Dangerous Game'; the least dangerous guys",
+            "tags": []
+        },
+        {
+            "prompt": "25% off at the Cuck Chair Depot",
+            "tags": []
+        },
+        {
+            "prompt": "Street canvasser vs. conflict avoider",
+            "tags": []
+        },
+        {
+            "prompt": "These daily affirmations are a bit off",
+            "tags": []
+        },
+        {
+            "prompt": "A24 on Ice",
+            "tags": []
+        },
+        {
+            "prompt": "Oops: all step-dads (Gift Prompt from Vic Michaelis)",
+            "tags": []
+        },
+        {
+            "prompt": "Musty Basement by Donna Summer",
+            "tags": []
+        },
+        {
+            "prompt": "Chapped Lips by Eminem",
+            "tags": []
+        },
+        {
+            "prompt": "Not Really My 'Thing' by Harry Styles",
+            "tags": []
+        },
+        {
+            "prompt": "Tell Me (Bout Your Friend) by Ray Charles",
+            "tags": []
+        },
+        {
+            "prompt": "Goldilocks by Nine Inch Nails",
+            "tags": []
+        },
+        {
+            "prompt": "Me Time by Bob Marley",
+            "tags": []
+        },
+        {
+            "prompt": "Space Tourism by David Bowie and Pat Benatar",
+            "tags": []
+        },
+        {
+            "prompt": "Slip 'N Slide by Bestie Boys",
+            "tags": []
+        },
+        {
+            "prompt": "Let's Get A Dog by Otis Redding and Etta James",
+            "tags": []
+        },
+        {
+            "prompt": "Overdraft Fees by Nirvana",
+            "tags": []
+        },
+        {
+            "prompt": "Stock Photo by The Fugees",
+            "tags": []
+        },
+        {
+            "prompt": "Blunt Bangs by Taylor Swift",
+            "tags": []
+        },
+        {
+            "prompt": "Airport Sex by Fetty Wap",
+            "tags": []
+        },
+        {
+            "prompt": "The Westside Wishy Washy by Bruno Mars",
+            "tags": []
+        },
+        {
+            "prompt": "(You Left Your) Phone Charger by Adele",
+            "tags": []
+        },
+        {
+            "prompt": "Rutabaga Rock by Lou Bega",
+            "tags": []
+        },
+        {
+            "prompt": "Horsegirl by Billie Eilish",
+            "tags": []
+        },
+        {
+            "prompt": "Yes And by Ed Sheeran and Kelly Clarkson",
+            "tags": []
+        },
+        {
+            "prompt": "Jalape\u00f1o (Remix) by Flo Rida and T-Pain",
+            "tags": []
+        },
+        {
+            "prompt": "Romantic Coupon Book by Hall and Oates",
+            "tags": []
+        },
+        {
+            "prompt": "Za Za Za (We're Zobbin') by Black Eyed Peas",
+            "tags": []
+        }
+    ],
+    "minigames": [
+        {
+            "minigame": "Translator",
+            "prompts": [
+                {
+                    "prompt": "A grand opening, [NAME] as the foreign politician",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "[NAME] as the foreign politician",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A new flag, [NAME] as the foreign politician",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A new scientific discovery, [NAME] as the foreign politician",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Take Some Direction",
+            "prompts": [
+                {
+                    "prompt": "Where we're going, we don't need roads",
+                    "sub_prompts": [
+                        "More",
+                        "Reading back stenography",
+                        "Something is thrown at you in the middle of the line",
+                        "All the vowels are 'ooo'",
+                        "The line that launches the musical number",
+                        "A dad selling you on camping during a rainstorm",
+                        "As a Maine lobster-fisherman",
+                        "As a human pretzel",
+                        "As Laura Dern getting out of the car in 'Jurassic Park'",
+                        "A dog trying to communicate this to its owners"
+                    ]
+                },
+                {
+                    "prompt": "Say hello to my little friend",
+                    "sub_prompts": [
+                        "More",
+                        "Bro-y",
+                        "Swarmed by bees",
+                        "Like a sulky teenager",
+                        "Chasing after a runaway train",
+                        "After a dank bong rip",
+                        "Doing a yodel",
+                        "Representing Earth to aliens",
+                        "Being tickled uncontrollably",
+                        "As a dramatic soap opera twist"
+                    ]
+                },
+                {
+                    "prompt": "I ate his liver with some fava beans and a nice Chianti",
+                    "sub_prompts": [
+                        "More",
+                        "Clapping for emphasis",
+                        "As a crowd of 10,000",
+                        "As a crowd of 10,000 John Malkoviches",
+                        "As a lonely little orphan boy",
+                        "Fake backwards",
+                        "As Greg from 'Succession'",
+                        "A guy at the gym who wants your digits",
+                        "Will Ferrell doing Tom Hanks doing Will Ferrell",
+                        "Like it means 'I got laid last night!'"
+                    ]
+                },
+                {
+                    "prompt": "We're going to need a bigger boat",
+                    "sub_prompts": [
+                        "More",
+                        "Weirder",
+                        "Like a cheer",
+                        "Hanging on by a thread",
+                        "Like a pick-up line that isn't going to work",
+                        "Like a pick-up line that is going to work",
+                        "Without letting me lose sight of your teeth",
+                        "Like an alien trying to blend in",
+                        "'Oh no... the smaller boat is standing right behind me, isn't it?'",
+                        "Like Emma Stone",
+                        "The crypt keeper setting up a pun",
+                        "Like your lucky craps shooting phrase",
+                        "While reporting in a hurricane"
+                    ]
+                },
+                {
+                    "prompt": "There's no crying in baseball",
+                    "sub_prompts": [
+                        "More",
+                        "As Willem Dafoe",
+                        "Naughtily",
+                        "With the utmost sincerity",
+                        "In slow motion",
+                        "Leaning into a courtroom microphone",
+                        "As a Scottish battle cry",
+                        "Like a Gremlin that just got spilled on",
+                        "Sobbing through wedding vows",
+                        "Being the first to solve the Survivor puzzle"
+                    ]
+                },
+                {
+                    "prompt": "My mama always said, life is like a box of chocolates",
+                    "sub_prompts": [
+                        "More",
+                        "With a forced smile",
+                        "Swashbuckingly",
+                        "For the 100th time",
+                        "Balancing on a tightrope",
+                        "Narrating a nature documentary",
+                        "About to go in for the kiss",
+                        "Delivering the president bad news",
+                        "Like a mad scientist monologuing to your creation",
+                        "God themselves"
+                    ]
+                },
+                {
+                    "prompt": "Toto, I have a feeling we're not in Kansas anymore",
+                    "sub_prompts": [
+                        "More",
+                        "Mockingly",
+                        "'Sorry to interrupt'",
+                        "On the tip of your tongue",
+                        "As the 'lesson moment' in a family sitcom",
+                        "Distracted by multiple text messages",
+                        "Like a sexy baby",
+                        "Distracted by your child playing with a knife",
+                        "In a world where it means 'goodbye'",
+                        "As a pitcher's superstitious wind-up routine",
+                        "As a call and response hiking song",
+                        "Solving the 'Wheel of Fortune' puzzle",
+                        "Opening an improv show"
+                    ]
+                },
+                {
+                    "prompt": "My name is Inigo Montoya, you killed my father, prepare to die",
+                    "sub_prompts": [
+                        "More",
+                        "With odd inflection",
+                        "It's a secret",
+                        "In an extreme close-up",
+                        "To a non-English speaker",
+                        "To someone on the phone- while silently arguing with someone in the room",
+                        "On the verge of tears",
+                        "In a Saturday morning cartoon",
+                        "In a one-person show on Broadway",
+                        "Enjoying a tall cool Barq's root beer",
+                        "A living statue that comes to life when someone puts a dollar in its hat",
+                        "Giving a TED talk",
+                        "Giving a demonstration at colonial Williamsburg"
+                    ]
+                },
+                {
+                    "prompt": "I'll have what she's having",
+                    "sub_prompts": [
+                        "More",
+                        "Like a brainwashed stepford wife",
+                        "As a protest chant",
+                        "Full of southern hospitality",
+                        "Threatening a hostile takeover",
+                        "Introducing a vaudeville act",
+                        "Answering a Miss USA Pageant question",
+                        "Subtly signaling to your significant other that you want to leave the party",
+                        "Lip syncing for your life",
+                        "As a hit new Britney song"
+                    ]
+                },
+                {
+                    "prompt": "Paint me like one of your French girls",
+                    "sub_prompts": [
+                        "More"
+                    ]
+                },
+                {
+                    "prompt": "This tape will self-destruct in three, two, one",
+                    "sub_prompts": [
+                        "Different",
+                        "Way too fast",
+                        "Check this out, this is a riot",
+                        "Having just stubbed your toe",
+                        "As a preset TikTok voice",
+                        "Calling the kids in for supper",
+                        "Smiling wider with every word",
+                        "A self-tape you immediately regret",
+                        "Like Cyrano de Bergerac fed you the line from the bushes",
+                        "As a little Creep-Creep McCreeperson"
+                    ]
+                },
+                {
+                    "prompt": "I see dead people",
+                    "sub_prompts": [
+                        "Different",
+                        "OK, brag",
+                        "A teacher trying to regain control of the classroom",
+                        "Me? Personally?",
+                        "Trying unsuccessfully to remove a hair from your mouth",
+                        "Like Yoda",
+                        "As a testimonial in a medicine commercial",
+                        "Trying to find the right pitch",
+                        "To the person who just cut you off in traffic",
+                        "In a version of 'The Sixth Sense' that's all frogs so every word is now 'ribbit' but the acting is the same"
+                    ]
+                },
+                {
+                    "prompt": "I am serious, and don't call me Shirley",
+                    "sub_prompts": [
+                        "Less",
+                        "Like a weird lil' fucking weirdo",
+                        "Like a petulant prince",
+                        "A Russian spy trying unsuccessfully to hide her accent",
+                        "Marge Simpson",
+                        "Swapping from your 'Severance' innie to outie mid-line",
+                        "A mic drop to an argument you're rehearsing in the shower",
+                        "A glitchy Halloween decoration",
+                        "An NPC whose dialogue options have been exhausted and is just saying the same thing over and over again until you leave",
+                        "A contestant on 'The Circle'",
+                        "A horse that's been fed peanut butter then dubbed over",
+                        "Like a joke you're repeating because it didn't get the love it deserved",
+                        "In the pouring rain but it suddenly clears up"
+                    ]
+                },
+                {
+                    "prompt": "I drink your milkshake. I drink it up.",
+                    "sub_prompts": [
+                        "More",
+                        "Lactose intolerantly"
+                    ]
+                },
+                {
+                    "prompt": "Come with me if you want to live",
+                    "sub_prompts": [
+                        "More",
+                        "Deflecting a compliment",
+                        "Demonically",
+                        "After inhaling helium",
+                        "Startled awake",
+                        "As the name of the company when answering reception",
+                        "As an opera singer's warm-up",
+                        "Coaching from the sidelines",
+                        "As a tennis player's grunt",
+                        "As a tour guide telling everyone to follow them"
+                    ]
+                },
+                {
+                    "prompt": "I love the smell of napalm in the morning",
+                    "sub_prompts": [
+                        "More",
+                        "Throw it away",
+                        "Cutely",
+                        "After looking around conspiratorially",
+                        "Being pelted with dodgeballs",
+                        "Jamaican",
+                        "As your sitcom catchphrase",
+                        "As a waiter charming their way to a big tip",
+                        "Giving instructions to your hairdresser",
+                        "Like Cleveland from Family Guy"
+                    ]
+                },
+                {
+                    "prompt": "A wizard is never late, nor is he early. He arrives precisely when he means to.",
+                    "sub_prompts": [
+                        "More",
+                        "Voice cracking",
+                        "With a pause where you don't expect it",
+                        "Calling the police while the killer is in the house",
+                        "Teaching an etiquette class",
+                        "Today's bible verse",
+                        "In an anime",
+                        "As Sam Reich",
+                        "An old man at a gas station trying to warn teens about their haunted Airbnb",
+                        "A gargoyle coming to life"
+                    ]
+                },
+                {
+                    "prompt": "You want the truth? You can't handle the truth",
+                    "sub_prompts": [
+                        "More",
+                        "Over-articulated",
+                        "To someone in the next room",
+                        "Like 'You can't handle allllll this'",
+                        "Before a 'Jackass' stunt",
+                        "Under hypnosis",
+                        "Delivering breaking news",
+                        "If the words contained ancient wisdom",
+                        "As dirty talk",
+                        "Like a creepy animatronic",
+                        "As a bridge troll"
+                    ]
+                },
+                {
+                    "prompt": "Keep the change, ya' filthy animal",
+                    "sub_prompts": [
+                        "More",
+                        "Politely",
+                        "Under your breath",
+                        "On an inhale instead of an exhale",
+                        "Like a sweet wittle baby",
+                        "Like it's the secret code to a speakeasy",
+                        "To your beloved pet",
+                        "Like a sweety wittle baby who needs his baba",
+                        "Like it's code for 'I'm DTF'",
+                        "Like a heckler at a comedy club",
+                        "Like the sweetest widdlest widdle baby with a poopy-oopy diaper",
+                        "As a WWE entrance line",
+                        "Shouting over your flamethrower"
+                    ]
+                },
+                {
+                    "prompt": "Take me out to the ball game",
+                    "sub_prompts": [
+                        "More",
+                        "Lots of hands",
+                        "Lots of pointing",
+                        "As gospel",
+                        "Half-spoken like in dramatic musical theater",
+                        "As slam poetry",
+                        "Your hand is a puppet and you're a ventriloquist",
+                        "Like a silent movie actor",
+                        "In a gibberish foreign language",
+                        "Like a drunk karaoke singer",
+                        "As a one-man band",
+                        "As if on a children's TV show",
+                        "Pausing twice to call out members of the band"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Make a Hook",
+            "prompts": [
+                {
+                    "prompt": "LA Pizza",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A Little Nap",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Student Rush",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Who Are You Supposed To Be?",
+            "prompts": [],
+            "tags": []
+        },
+        {
+            "minigame": "If It Could Talk",
+            "prompts": [
+                {
+                    "prompt": "Florida man",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Stock photos",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Florida men",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Puppets",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Famous landmarks",
+                    "sub_prompts": [
+                        "The Eiffel Tower",
+                        "The Sydney Opera House",
+                        "Fenway Park",
+                        "The Leaning Tower Of Pisa",
+                        "Niagara Falls",
+                        "Mount Rushmore"
+                    ]
+                },
+                {
+                    "prompt": "Imperfect produce",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Fonts",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Back To Basics",
+            "prompts": [
+                {
+                    "prompt": "Helicopter",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Turkey",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A cartoonish snore",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Horse",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Baby",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Falling down the stairs",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Beatboxing",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Flamethrower",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Alternate Universe",
+            "prompts": [
+                {
+                    "prompt": "Batman",
+                    "sub_prompts": [
+                        "Fuckboy Batman",
+                        "A literal Bat Man",
+                        "Ray Romano Batman",
+                        "Robin Williams Batman",
+                        "Mark Wahlberg Batman",
+                        "Keira Knightley Batman",
+                        "Just a mouth Batman",
+                        "Fart Batman",
+                        "A Batman who's called on in math class to come up to the board but he has an erection",
+                        "Young Judy Garland Batman on the MGM lot, trying to audition for The Wizard of Oz, but she's also trying to hide the fact that she's Batman",
+                        "Batman talking to someone that he doesn't know which eye to look at"
+                    ]
+                },
+                {
+                    "prompt": "Santa",
+                    "sub_prompts": [
+                        "Three elves in a trench coat Santa",
+                        "Q-Anon Santa",
+                        "Ate too many edibles-paranoid-& keeping it together Santa",
+                        "WWE Santa",
+                        "Wating for deadbeat dad Santa",
+                        "Santa that's actually a hog that got loose",
+                        "European Santa, but he doesn't want anyone to know that he's European",
+                        "Santa who's trying to tell someone they're at the wrong podium",
+                        "Three small Santas"
+                    ]
+                },
+                {
+                    "prompt": "Mario auditions",
+                    "sub_prompts": [
+                        "Jason Bateman as Mario",
+                        "Emilia Clarke as Princess Peach",
+                        "Morty as Yoshi"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Make A Hook",
+            "prompts": [
+                {
+                    "prompt": "Celiac",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Past My Bedtime",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Share My Uber",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Short Kings",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Beyonc\u00e9 Concert",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "I'm A Lego Man",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Now That's What I Call",
+            "prompts": [
+                {
+                    "prompt": "Drugs",
+                    "sub_prompts": [
+                        "An old folks' home",
+                        "The Mushroom Kingdom",
+                        "The year 2067",
+                        "Willy Wonka's Chocolate Factory",
+                        "Burning Man",
+                        "A veterinary office"
+                    ]
+                },
+                {
+                    "prompt": "Sex",
+                    "sub_prompts": [
+                        "Nunnery",
+                        "The old west",
+                        "Top of the corporate ladder",
+                        "Catholic school sex ed",
+                        "Rabbit holes"
+                    ]
+                },
+                {
+                    "prompt": "Regional insults",
+                    "sub_prompts": [
+                        "Chicago, IL",
+                        "Paris, France",
+                        "Savannah, GA",
+                        "Dublin, Ireland",
+                        "Ottawa, Canada"
+                    ]
+                },
+                {
+                    "prompt": "Taints",
+                    "sub_prompts": [
+                        "Willy Wonka's Chocolate Factory",
+                        "The Italian mob",
+                        "Mensa",
+                        "Candyland",
+                        "Atlantis",
+                        "Caveman times"
+                    ]
+                },
+                {
+                    "prompt": "Masturbation",
+                    "sub_prompts": [
+                        "Portland",
+                        "A dorm shower",
+                        "A sperm bank",
+                        "Back in your grandpa's day",
+                        "A priest's confessional",
+                        "Jane Goodall's field notes"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Wrong Answers Only",
+            "prompts": [
+                {
+                    "prompt": "Even more alternate universe Spider-Mans",
+                    "sub_prompts": [
+                        "Goofy Spider-Man",
+                        "Mean girl Spider-Man",
+                        "Afraid of spiders Spider-Man",
+                        "Keira Knightley Spider-Man",
+                        "Warner Herzog Spider-Man",
+                        "Spider-Man in Waterworld",
+                        "Disgusted by his own webs Spider-Man",
+                        "Katherine Hepburn Spider-Man",
+                        "Spider-Man, but he's obsessed with the Christopher Nolan Batman movies"
+                    ]
+                },
+                {
+                    "prompt": "Random question while the players wear noise-canceling headphones",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Now That's What I Call Fizzy Drinks",
+                    "sub_prompts": [
+                        "Baton Rouge, LA",
+                        "Manchester, UK",
+                        "Sydney, AUS",
+                        "Transylvania",
+                        "Camelot"
+                    ]
+                },
+                {
+                    "prompt": "Advanced ways to order your eggs",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Wine tasting",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Now That's What I Call Sprinkles",
+                    "sub_prompts": [
+                        "Bristol, UK",
+                        "Naples, Italy",
+                        "Hell",
+                        "Mars"
+                    ]
+                },
+                {
+                    "prompt": "Dick names",
+                    "sub_prompts": [
+                        "Sherlock Holmes",
+                        "Gandalf",
+                        "Optimus Prime",
+                        "Yoda",
+                        "Donald Trump",
+                        "Shaq"
+                    ]
+                },
+                {
+                    "prompt": "Chain restaurants birthday songs",
+                    "sub_prompts": [
+                        "Jekyll & Hyde",
+                        "McDonalds",
+                        "A cat caf\u00e9",
+                        "Medieval times",
+                        "An NYC hot dog cart"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "No Nonsense",
+            "prompts": [
+                {
+                    "prompt": "A career setback",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Directions",
+            "prompts": [
+                {
+                    "prompt": "As a question",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "With the tone of 'I'm not mad... I'm just disappointed'",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Being fed the lines from someone in the wings",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Like an infomercial salesperson",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Like every word is a euphemism",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "With maximum vocal fry",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Like 1/4th of a barbershop quartet",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "With a corresponding tiktok dance",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "To the entity haunting this building",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Locals Only",
+            "prompts": [
+                {
+                    "prompt": "A beach",
+                    "sub_prompts": [
+                        "More Californian",
+                        "Even more Californian",
+                        "More surfer",
+                        "More stoned",
+                        "More therapized",
+                        "More industry shop talk"
+                    ]
+                },
+                {
+                    "prompt": "Buckingham Palace",
+                    "sub_prompts": [
+                        "More British",
+                        "Even more upper crust",
+                        "More cockney",
+                        "You're all The Beatles",
+                        "You're all Jason Statham"
+                    ]
+                },
+                {
+                    "prompt": "A front porch",
+                    "sub_prompts": [
+                        "More Southern",
+                        "More humid",
+                        "More dignified",
+                        "Even more humid",
+                        "So Southern I can't understand you"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Vent It Out",
+            "prompts": [
+                {
+                    "prompt": "Movie trailers that give away the movie",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "When a bar of soap becomes a little nub",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That no one makes mixtapes anymore",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That buildings are ugly",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Needing to buy so much cumin for just a pinch of cumin",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Deciding on dinner every single night",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Small dogs get all the clothes",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Dads don't lactate",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That suffering is",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Texting just 'OK'",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "People who sing the harmony to 'Happy Birthday'",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "It's so hard to slice a bagel evenly",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Losing still stings a little",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Movies in 90 parts on TikTok",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Being advertised Mouth Tape",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Burgers that don't come with sides",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That we no longer challenge each other to duels",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Snitching",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Drug store items behind plastic guards",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That pets die",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "The lack of 'third places'",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That men don't get flowers",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "That Daniel Day-Lewis is so choosy about his roles",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Daylight savings",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "America's lack of trains",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Capes aren't in fashion anymore",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "The small number of Mr. Bean episodes",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Streaming services",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Choose Your Character",
+            "prompts": [
+                {
+                    "prompt": "[NAME] as the character",
+                    "sub_prompts": [
+                        "Dad Fighter 2",
+                        "Feral Cat Adventure",
+                        "Tin Man and Company",
+                        "Muscle Punch"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Hollywood Ho!",
+            "prompts": [
+                {
+                    "prompt": "Friend, Singular",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Sanskrit on My Arms",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Dad Time",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Snakes",
+                    "sub_prompts": [
+                        "Too Many"
+                    ]
+                },
+                {
+                    "prompt": "Good Morning, Gordon",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Questions and Man-swers",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Orgasm Police",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Hell's Babies",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Jackass Thanksgiving",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Toss Up",
+            "prompts": [
+                {
+                    "prompt": "The vocal warm-up research and development committee ",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Taglines for The Real Housewives of Gotham City",
+                    "sub_prompts": [
+                        "Joker",
+                        "Catwoman",
+                        "Penguin",
+                        "Two-Face"
+                    ]
+                },
+                {
+                    "prompt": "Cast taglines for the Real Housewives of Cryptozoology",
+                    "sub_prompts": [
+                        "Bigfoot",
+                        "Cyclops",
+                        "Unicorn",
+                        "The Loch Ness Monster",
+                        "Centaur"
+                    ]
+                },
+                {
+                    "prompt": "Jingles for brands that don't exist in real life",
+                    "sub_prompts": [
+                        "Unethical Jewelers",
+                        "1-800-LayNLow Witness Protection Services",
+                        "Goldfarb, Cortez, McNulty, Takahashi & Patel Law Services",
+                        "Corn Dumps Cereal",
+                        "Shlong Chocolate Bar",
+                        "Ugly Baby Diapers"
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "minigame": "Back to Basics",
+            "prompts": [
+                {
+                    "prompt": "Uncorking a wine bottle",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A bike horn",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Bob Dylan doing the wave at a baseball game",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A tiny bell",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "Falling down a well",
+                    "sub_prompts": []
+                },
+                {
+                    "prompt": "A 3-second Super Bowl ad that cost half a million dollars",
+                    "sub_prompts": []
+                }
+            ],
+            "tags": []
+        }
+    ]
+}
