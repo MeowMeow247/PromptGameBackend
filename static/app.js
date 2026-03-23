@@ -20,7 +20,7 @@ function resetText(){
 
 async function getPrompt() {
   resetText();
-  const url = "http://improvgame.online/prompt";
+  const url = "/prompt";
   try {
     const response = await fetch(url);
     if (!response.ok) {
@@ -37,7 +37,7 @@ async function getPrompt() {
 
 async function getIntroduction() {
   resetText();
-  const url = "http://improvgame.online/introduction";
+  const url = "/introduction";
   try {
     const response = await fetch(url);
     if (!response.ok) {
@@ -104,7 +104,7 @@ function set_minigame_prompt(){
 
 async function getMinigame() {
   resetText();
-  const url = "http://improvgame.online/minigame";
+  const url = "/minigame";
   try {
     const response = await fetch(url);
     if (!response.ok) {
