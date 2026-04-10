@@ -1,7 +1,7 @@
 let players = []
 
 function showPlayers(){
-    let text = "Go on, get some Friends!";
+    let text = "Go on, find some Friends!";
     if (players.length > 0){
         text = "";
         for (let i = 0; i < players.length; i++){
