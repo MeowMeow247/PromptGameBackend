@@ -9,6 +9,3 @@ The Prompts were taken from Dropout's "Make Some Noise" game show by crawling [t
 If you want to run this yourself for some reason, all you need to do is clone the repository to a webserver that has docker installed, and run ``docker compose build && docker compose up -d``.
 <br>
 Or you can find my current deployment [here](http://improvgame.online/)!
-<br>
-<br>
-Maybe I'll make some sort of algorithm that generates prompts at some point so I don't have to take them from writers with actual talent, wouldn't that be cool...
