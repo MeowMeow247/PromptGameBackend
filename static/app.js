@@ -1,3 +1,23 @@
+let players = [];
+let player_turn = 0;
+let longest_player_name = 0;
+
+var getUrlParameter = function getUrlParameter(sParam) {
+  var sPageURL = window.location.search.substring(1),
+      sURLVariables = sPageURL.split('&'),
+      sParameterName,
+      i;
+
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+
+    if (sParameterName[0] === sParam) {
+      return sParameterName[1] === undefined ? "" : decodeURIComponent(sParameterName[1]);
+    }
+  }
+  return "";
+};
+
 
 let minigame_obj;
 let minigame_prompt_index = 0;
@@ -135,4 +155,95 @@ async function advanceModifier() {
 async function newMinigamePrompt() {
   set_minigame_prompt();
   displayMinigame();
+}
+
+async function setupPlayers(){
+  window.location.href = "/setup";
+}
+
+function show_players(){
+  let text = "";
+  let player_turn = "nobody?";
+  for (let x = 0; x < players.length; x++){
+    let player_data = players[x];
+    //let padding = longest_player_name - player_data['name'].length;
+    let padding_text = " ";
+    //for (let i = 0; i < padding; i++){
+    //  padding_text += " ";
+    //}
+    text += player_data['name'] + ":" + padding_text + player_data['score'] + " | "
+    if (player_data['turn']){
+      player_turn = player_data['name'];
+    }
+  }
+  document.getElementById('players_scores').innerHTML = text.slice(0, text.length-2);
+  document.getElementById('player_turn').innerHTML = "It's " + player_turn + (player_turn.endsWith("s") ? "'" : "'s") + " turn!";
+}
+
+async function givePoint(){
+  players[player_turn]['score'] += 1;
+  show_players();
+}
+
+async function nextPlayer(){
+  player_turn += 1;
+  if (player_turn > (players.length-1)){
+    player_turn = 0;
+  }
+  set_player_turn();
+  show_players();
+  await getPrompt();
+}
+
+function set_player_turn(){
+  for (let x = 0; x < players.length; x++){
+    players[x]['turn'] = false;
+  }
+  players[player_turn]['turn'] = true;
+}
+
+function show_base_ui(show){
+  document.getElementById('random_text').hidden = !show;
+  document.getElementById('button1').hidden = !show;
+  document.getElementById('button2').hidden = !show;
+  document.getElementById('button3').hidden = !show;
+}
+
+function show_players_ui(show){
+  document.getElementById("players_scores").hidden = !show;
+  document.getElementById("player_turn").hidden = !show;
+  document.getElementById("button_add_point").hidden = !show;
+  document.getElementById("button_next_player").hidden = !show;
+  document.getElementById("button_skip_prompt").hidden = !show;
+
+}
+
+async function init(){
+  // get players from request variables
+  let players_s = getUrlParameter("players");
+  if (players_s.includes(",")){
+    let data = [];
+    let split = players_s.split(",");
+    for (let x = 0; x < split.length; x++){
+      let player = split[x];
+      data.push({'name': player, 'score': 0, 'turn': false})
+      if (player.length > longest_player_name){
+        longest_player_name = player.length;
+      }
+    }
+    players = data;
+  }
+  if (players.length > 0){
+    document.getElementById("button_setup").hidden = true;
+    set_player_turn();
+    show_players();
+    await getPrompt();
+    show_players_ui(true);
+    show_base_ui(false);
+  }
+  else{
+    show_players_ui(false);
+    show_base_ui(true);
+    document.getElementById("button_setup").hidden = false;
+  }
 }

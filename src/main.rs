@@ -96,6 +96,18 @@ async fn index() -> Option<NamedFile> {
     NamedFile::open("/static/index.html").await.ok()
 }
 
+#[get("/setup")]
+async fn setup() -> Option<NamedFile> {
+    println!("[{}] served setup.html", time_nice());
+    NamedFile::open("/static/setup.html").await.ok()
+}
+
+#[get("/setup.js")]
+async fn setup_js() -> Option<NamedFile> {
+    println!("[{}] served setup.js", time_nice());
+    NamedFile::open("/static/setup.js").await.ok()
+}
+
 #[launch]
 fn rocket() -> _ {
     let prompt_file_path = "/static/prompts_data.json".to_string();
@@ -114,5 +126,5 @@ fn rocket() -> _ {
         )
         .allow_credentials(true);
     println!("[{}] starting...", time_nice());
-    rocket::build().mount("/", routes![index, app, style, favicon, index_html, introduction, prompt, minigame]).manage(prompt_data).attach(cors.to_cors().unwrap())
+    rocket::build().mount("/", routes![index, app, style, favicon, index_html, introduction, prompt, minigame, setup, setup_js]).manage(prompt_data).attach(cors.to_cors().unwrap())
 }

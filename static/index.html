@@ -19,12 +19,20 @@
   <meta name="theme-color" content="#fafafa">
 </head>
 
-<body>
+<body onload="init();">
 
   <!-- Add your site or application content here -->
   <script src="/app.js"></script>
   <div class="app">
-  <h3>Get a random improvisational...</h3>
+  <h4 class="player_display" id="players_scores"></h4>
+  <h3 class="player_display" id="player_turn"></h3>
+    <button id="button_setup" class="smallerButton" style="margin-bottom: 15px" onclick="setupPlayers();">Play With Friends</button>
+    <div>
+      <button id="button_add_point" class="bigButton" onclick="givePoint();">Give Point</button>
+      <button id="button_skip_prompt" class="bigButton" onclick="getPrompt();">Skip Prompt</button>
+      <button id="button_next_player" class="bigButton" onclick="nextPlayer();">Next Player</button>
+    </div>
+  <h3 id="random_text">Get a random improvisational...</h3>
   <div>
     <button id="button2" class="bigButton" onclick="getIntroduction();">Introduction</button>
     <button id="button1" class="bigButton" onclick="getPrompt();">Prompt</button>
